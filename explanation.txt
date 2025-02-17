@@ -1,0 +1,83 @@
+Willkommen beim Pygame Platformer!
+
+In diesem Spiel steuerst du einen Charakter durch verschiedene Level mit Plattformen, Leitern und Hindernissen. Hier erfährst du, wie du das Spiel spielst und welche Funktionen es gibt.
+
+## So spielst du
+
+1. Bewegung:
+   - Verwende die Pfeiltasten oder WASD-Tasten, um deinen Charakter nach links, rechts und oben zu bewegen.
+   - Klettere Leitern hinauf und hinunter, indem du die Pfeiltasten nach oben und unten oder die Tasten W und S drückst.
+
+2. Ziel:
+   - Navigiere durch das Level, um das Endziel zu erreichen.
+   - Vermeide tödliche Plattformen und andere Hindernisse, die deinem Charakter schaden können.
+
+3. Plattformen:
+   - Normale Plattform: Dies sind die Standardplattformen, auf denen du laufen kannst.
+   - Leiterplattform: Ermöglicht deinem Charakter, nach oben und unten zu klettern.
+   - Tödliche Plattform: Vermeide diese Plattformen, da sie deinem Charakter schaden.
+   - Rutschige Plattform: Diese Plattformen sind rutschig und erschweren die Kontrolle über deinen Charakter.
+   - Teleporter-Plattform: Betritt diese Plattformen, um an einen anderen Ort im Level teleportiert zu werden.
+
+## Funktionen
+
+- Sprites: Das Spiel verwendet ein Spritesheet, um verschiedene Sprites für den Spieler und andere Spielelemente zu laden.
+- Skalierung: Sprites können auf verschiedene Größen skaliert werden, um die Sichtbarkeit oder das Spielerlebnis zu verbessern.
+- Caching: Häufig verwendete Sprites werden zwischengespeichert, um die Leistung zu verbessern.
+- Level: Das Spiel unterstützt mehrere Level, die jeweils unterschiedliche Layouts und Herausforderungen bieten.
+
+## Einstellungen
+
+- Auflösung: Das Spiel läuft mit einer Auflösung von 800x600 Pixeln.
+- FPS: Das Spiel ist auf 60 Bilder pro Sekunde eingestellt, um ein flüssiges Erlebnis zu gewährleisten.
+- Weltgröße: Die Spielwelt ist größer als der Bildschirm, was Scrollen und Erkundung ermöglicht.
+
+## Anpassung
+
+- Plattformfarben: Du kannst die Farben der verschiedenen Plattformen in der Datei `settings.py` anpassen.
+- Gegnergesundheit: Passe die Gesundheit der verschiedenen Gegnertypen in der Datei `settings.py` an.
+
+## Erweiterte Funktionen
+
+1. Kamerasystem:
+   - Das Spiel enthält ein Kamerasystem, das dem Spieler folgt, während er sich durch das Level bewegt.
+   - Die Kamera stellt sicher, dass der Spieler immer im Zentrum des Bildschirms bleibt, was ein flüssiges Spielerlebnis bietet.
+
+2. Gegner-KI:
+   - Das Spiel verfügt über verschiedene Gegnertypen, die jeweils einzigartige Verhaltensweisen und Attribute haben.
+   - Bodengegner: Patrouillieren auf Plattformen und verfolgen den Spieler, wenn sie ihn entdecken.
+   - Fliegende Gegner: Schweben und stürzen sich auf den Spieler.
+   - Schießende Gegner: Schießen Projektile aus der Ferne auf den Spieler.
+   - Panzergegner: Haben viel Gesundheit und verfolgen den Spieler aggressiv.
+
+3. Projektilsystem:
+   - Gegner können Projektile auf den Spieler schießen, was eine zusätzliche Herausforderung darstellt.
+   - Die Projektile werden von einem separaten System verwaltet, um eine reibungslose Leistung zu gewährleisten.
+
+4. Kollisionsdetektion:
+   - Das Spiel enthält ein robustes Kollisionsdetektionssystem, um Interaktionen zwischen dem Spieler, Plattformen und Gegnern zu handhaben.
+   - Dieses System stellt sicher, dass der Spieler auf Plattformen laufen, Leitern erklimmen und tödliche Hindernisse vermeiden kann.
+
+5. Gesundheit und Schaden:
+   - Sowohl der Spieler als auch die Gegner haben Gesundheitssysteme.
+   - Der Spieler kann von Gegnern und tödlichen Plattformen Schaden nehmen.
+   - Gegner können besiegt werden, indem ihre Gesundheit auf null reduziert wird.
+
+## Tipps und Tricks
+
+1. Beherrsche die Steuerung:
+   - Nimm dir Zeit, um dich an die Bewegungssteuerung zu gewöhnen. Sanfte und präzise Bewegungen sind der Schlüssel, um die Level erfolgreich zu durchqueren.
+
+2. Plane deine Züge:
+   - Nimm dir Zeit, um das Layout des Levels zu beobachten und deine Züge entsprechend zu planen. Hektik kann zu Fehlern und unnötigem Schaden führen.
+
+3. Nutze Plattformen weise:
+   - Nutze die verschiedenen Plattformtypen zu deinem Vorteil. Verwende zum Beispiel rutschige Plattformen, um schnell an Gegnern vorbeizukommen.
+
+4. Achte auf Gegner:
+   - Behalte die Bewegungen und Muster der Gegner im Auge. Wenn du ihr Verhalten verstehst, kannst du Schaden vermeiden und sie leichter besiegen.
+
+5. Erkunde:
+   - Nimm dir Zeit, jedes Level gründlich zu erkunden. Es könnte versteckte Wege oder Geheimnisse geben, die dir beim Vorankommen helfen.
+
+Wir hoffen, du hast Spaß beim Spielen des Pygame Platformers! Viel Spaß beim Navigieren durch die Level und beim Überwinden der Herausforderungen!
