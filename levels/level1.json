@@ -1,0 +1,16 @@
+{
+    "platforms": [
+        {"type": "Platform", "x": 0, "y": 1200, "width": 474, "height": 43},
+        {"type": "SlipperyPlatform", "x": 243, "y": 1166, "width": 441, "height": 37},
+        {"type": "LadderPlatform", "x": 1131, "y": 1061, "width": 50, "height": 218},
+        {"type": "Platform", "x": 1088, "y": 1180, "width": 485, "height": 21},
+        {"type": "SlipperyPlatform", "x": 300, "y": 816, "width": 686, "height": 37},
+        {"type": "DeadlyPlatform", "x": 79, "y": 809, "width": 187, "height": 46},
+        {"type": "LadderPlatform", "x": 167, "y": 720, "width": 10, "height": 615},
+        {"type": "Platform", "x": 300, "y": 631, "width": 142, "height": 26},
+        {"type": "Platform", "x": 516, "y": 511, "width": 130, "height": 33},
+        {"type": "Platform", "x": 612, "y": 339, "width": 159, "height": 27},
+        {"type": "Platform", "x": 854, "y": 389, "width": 193, "height": 33},
+        {"type": "DeadlyPlatform", "x": 1064, "y": 479, "width": 300, "height": 35}
+    ]
+}

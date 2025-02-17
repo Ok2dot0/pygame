@@ -1,0 +1,26 @@
+{
+    "platforms": [
+        {
+            "type": "Platform",
+            "x": 100,
+            "y": 270,
+            "width": 420,
+            "height": 90,
+            "color": [
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "world_width": 1000,
+    "world_height": 1000,
+    "player_spawn": [
+        161.0,
+        242.0
+    ],
+    "gun_spawn": [
+        303.0,
+        242.0
+    ]
+}

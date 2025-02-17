@@ -1,0 +1,238 @@
+{
+    "platforms": [
+        {
+            "type": "Platform",
+            "x": 38,
+            "y": 655,
+            "width": 890,
+            "height": 17,
+            "color": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "Platform",
+            "x": 45,
+            "y": 441,
+            "width": 3,
+            "height": 177,
+            "color": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "Platform",
+            "x": 48,
+            "y": 618,
+            "width": 14,
+            "height": 40,
+            "color": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "Platform",
+            "x": 30,
+            "y": 429,
+            "width": 50,
+            "height": 226,
+            "color": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "LadderPlatform",
+            "x": 87,
+            "y": 450,
+            "width": 10,
+            "height": 207,
+            "color": [
+                0,
+                255,
+                0
+            ]
+        },
+        {
+            "type": "DeadlyPlatform",
+            "x": 15,
+            "y": 86,
+            "width": 10,
+            "height": 15,
+            "color": [
+                255,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "DeadlyPlatform",
+            "x": 19,
+            "y": 98,
+            "width": 0,
+            "height": 0,
+            "color": [
+                255,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "SlipperyPlatform",
+            "x": 125,
+            "y": 426,
+            "width": 307,
+            "height": 14,
+            "color": [
+                0,
+                0,
+                255
+            ]
+        },
+        {
+            "type": "DeadlyPlatform",
+            "x": 428,
+            "y": 427,
+            "width": 59,
+            "height": 15,
+            "color": [
+                255,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "LadderPlatform",
+            "x": 545,
+            "y": 280,
+            "width": 9,
+            "height": 107,
+            "color": [
+                0,
+                255,
+                0
+            ]
+        },
+        {
+            "type": "Platform",
+            "x": 583,
+            "y": 260,
+            "width": 328,
+            "height": 24,
+            "color": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "Platform",
+            "x": 712,
+            "y": 196,
+            "width": 15,
+            "height": 65,
+            "color": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "Platform",
+            "x": 728,
+            "y": 197,
+            "width": 44,
+            "height": 23,
+            "color": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "Platform",
+            "x": 195,
+            "y": 620,
+            "width": 25,
+            "height": 40,
+            "color": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "Platform",
+            "x": 301,
+            "y": 557,
+            "width": 22,
+            "height": 103,
+            "color": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "Platform",
+            "x": 390,
+            "y": 608,
+            "width": 23,
+            "height": 50,
+            "color": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "Platform",
+            "x": 457,
+            "y": 523,
+            "width": 16,
+            "height": 57,
+            "color": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "Platform",
+            "x": 528,
+            "y": 597,
+            "width": 32,
+            "height": 63,
+            "color": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "SlipperyPlatform",
+            "x": 300,
+            "y": 554,
+            "width": 27,
+            "height": 8,
+            "color": [
+                0,
+                0,
+                255
+            ]
+        }
+    ],
+    "world_width": 1000,
+    "world_height": 860,
+    "player_spawn": [
+        729,
+        602
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "platforms": [
+        {
+            "type": "Platform",
+            "x": 1050,
+            "y": 650,
+            "width": 10,
+            "height": 10,
+            "color": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "Platform",
+            "x": 820,
+            "y": 640,
+            "width": 10,
+            "height": 470,
+            "color": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "Platform",
+            "x": 940,
+            "y": 660,
+            "width": 10,
+            "height": 10,
+            "color": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "Platform",
+            "x": 940,
+            "y": 700,
+            "width": 10,
+            "height": 10,
+            "color": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "Platform",
+            "x": 900,
+            "y": 930,
+            "width": 10,
+            "height": 10,
+            "color": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "Platform",
+            "x": 10,
+            "y": 50,
+            "width": 10,
+            "height": 10,
+            "color": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "Platform",
+            "x": 10,
+            "y": 40,
+            "width": 50,
+            "height": 10,
+            "color": [
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "world_width": 64,
+    "world_height": 64,
+    "player_spawn": [
+        31.0,
+        31.0
+    ],
+    "gun_spawn": [
+        306.5,
+        39.0
+    ]
+}

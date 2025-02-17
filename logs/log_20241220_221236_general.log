@@ -1,0 +1,1652 @@
+[INFO][22:12:36.979] Initializing game...
+[INFO][22:12:45.218] Loading level: .//levels//ene.json
+[INFO][22:12:45.230][Performance] Performance - Level load: 11.90ms
+[SUCCESS][22:12:45.232] Level loaded successfully: .//levels//ene.json
+[SUCCESS][22:12:53.272] Game initialized successfully
+[INFO][22:12:58.774][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:58.776][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(65, 85), vel=(0.00, 10.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:12:58.779][Performance] Performance - Game update: 5.01ms
+[INFO][22:12:58.796][Performance] Performance - Frame render: 16.04ms
+[INFO][22:12:58.799][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:58.802][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(65, 95), vel=(0.00, 10.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:12:58.803][Performance] Performance - Game update: 5.00ms
+[INFO][22:12:58.808][Performance] Performance - Frame render: 3.99ms
+[INFO][22:12:58.815][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:58.817][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(65, 105), vel=(0.00, 10.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:12:58.819][Performance] Performance - Game update: 4.08ms
+[INFO][22:12:58.825][Performance] Performance - Frame render: 4.40ms
+[INFO][22:12:58.831][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:58.833][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(65, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:12:58.836][Performance] Performance - Game update: 4.51ms
+[INFO][22:12:58.841][Performance] Performance - Frame render: 4.06ms
+[INFO][22:12:58.848][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:58.850][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(65, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:12:58.852][Performance] Performance - Game update: 4.00ms
+[INFO][22:12:58.857][Performance] Performance - Frame render: 4.00ms
+[INFO][22:12:58.866][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:58.868][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(65, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:12:58.869][Performance] Performance - Game update: 3.99ms
+[INFO][22:12:58.877][Performance] Performance - Frame render: 7.00ms
+[INFO][22:12:58.882][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:58.884][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(65, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:12:58.886][Performance] Performance - Game update: 4.00ms
+[INFO][22:12:58.894][Performance] Performance - Frame render: 6.00ms
+[INFO][22:12:58.898][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:58.901][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(65, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:12:58.903][Performance] Performance - Game update: 5.02ms
+[INFO][22:12:58.910][Performance] Performance - Frame render: 6.00ms
+[INFO][22:12:58.914][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:58.916][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(65, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:12:58.918][Performance] Performance - Game update: 4.99ms
+[INFO][22:12:58.927][Performance] Performance - Frame render: 6.02ms
+[INFO][22:12:58.932][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:58.935][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(65, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:12:58.937][Performance] Performance - Game update: 4.52ms
+[INFO][22:12:58.944][Performance] Performance - Frame render: 5.53ms
+[INFO][22:12:58.948][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:58.951][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(65, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:12:58.953][Performance] Performance - Game update: 5.01ms
+[INFO][22:12:58.960][Performance] Performance - Frame render: 6.01ms
+[INFO][22:12:58.964][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:58.967][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(65, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:12:58.968][Performance] Performance - Game update: 4.00ms
+[INFO][22:12:58.977][Performance] Performance - Frame render: 6.52ms
+[INFO][22:12:58.980][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:58.982][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(65, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:12:58.984][Performance] Performance - Game update: 4.26ms
+[INFO][22:12:58.990][Performance] Performance - Frame render: 3.98ms
+[INFO][22:12:58.997][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.000][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(65, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:12:59.002][Performance] Performance - Game update: 5.00ms
+[INFO][22:12:59.012][Performance] Performance - Frame render: 7.01ms
+[INFO][22:12:59.020][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.023][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(65, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:12:59.025][Performance] Performance - Game update: 5.74ms
+[INFO][22:12:59.035][Performance] Performance - Frame render: 7.82ms
+[INFO][22:12:59.040][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.042][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(65, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:12:59.044][Performance] Performance - Game update: 4.01ms
+[INFO][22:12:59.053][Performance] Performance - Frame render: 8.02ms
+[INFO][22:12:59.057][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.059][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(65, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:12:59.060][Performance] Performance - Game update: 2.98ms
+[INFO][22:12:59.068][Performance] Performance - Frame render: 5.99ms
+[INFO][22:12:59.074][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.076][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(65, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:12:59.077][Performance] Performance - Game update: 3.00ms
+[INFO][22:12:59.083][Performance] Performance - Frame render: 5.00ms
+[INFO][22:12:59.090][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.091][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(65, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:12:59.092][Performance] Performance - Game update: 2.00ms
+[INFO][22:12:59.098][Performance] Performance - Frame render: 5.02ms
+[INFO][22:12:59.107][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.109][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(65, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:12:59.110][Performance] Performance - Game update: 3.27ms
+[INFO][22:12:59.117][Performance] Performance - Frame render: 5.55ms
+[INFO][22:12:59.124][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.125][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(65, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:12:59.126][Performance] Performance - Game update: 2.01ms
+[INFO][22:12:59.132][Performance] Performance - Frame render: 5.01ms
+[INFO][22:12:59.142][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.143][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(65, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:12:59.144][Performance] Performance - Game update: 2.00ms
+[INFO][22:12:59.151][Performance] Performance - Frame render: 5.00ms
+[INFO][22:12:59.158][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.160][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(65, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:12:59.160][Performance] Performance - Game update: 2.00ms
+[INFO][22:12:59.168][Performance] Performance - Frame render: 6.00ms
+[INFO][22:12:59.176][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.178][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(65, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:12:59.179][Performance] Performance - Game update: 2.39ms
+[INFO][22:12:59.186][Performance] Performance - Frame render: 5.01ms
+[INFO][22:12:59.192][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.193][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(65, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:12:59.194][Performance] Performance - Game update: 1.99ms
+[INFO][22:12:59.201][Performance] Performance - Frame render: 5.01ms
+[INFO][22:12:59.209][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.211][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(65, 105), vel=(0.10, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:12:59.212][Performance] Performance - Game update: 2.98ms
+[INFO][22:12:59.220][Performance] Performance - Frame render: 6.62ms
+[INFO][22:12:59.226][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.228][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(65, 105), vel=(0.20, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:12:59.229][Performance] Performance - Game update: 3.02ms
+[INFO][22:12:59.236][Performance] Performance - Frame render: 5.36ms
+[INFO][22:12:59.243][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.245][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(65, 105), vel=(0.30, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:12:59.246][Performance] Performance - Game update: 2.99ms
+[INFO][22:12:59.253][Performance] Performance - Frame render: 5.53ms
+[INFO][22:12:59.260][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.262][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(65, 105), vel=(0.40, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:12:59.263][Performance] Performance - Game update: 2.98ms
+[INFO][22:12:59.271][Performance] Performance - Frame render: 4.24ms
+[INFO][22:12:59.277][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.279][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(66, 105), vel=(0.50, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:12:59.280][Performance] Performance - Game update: 3.00ms
+[INFO][22:12:59.288][Performance] Performance - Frame render: 4.00ms
+[INFO][22:12:59.294][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.296][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(67, 105), vel=(0.60, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:12:59.297][Performance] Performance - Game update: 3.00ms
+[INFO][22:12:59.304][Performance] Performance - Frame render: 3.99ms
+[INFO][22:12:59.310][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.312][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(68, 105), vel=(0.70, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:12:59.312][Performance] Performance - Game update: 2.02ms
+[INFO][22:12:59.320][Performance] Performance - Frame render: 5.53ms
+[INFO][22:12:59.327][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.329][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(69, 105), vel=(0.80, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:12:59.332][Performance] Performance - Game update: 4.71ms
+[INFO][22:12:59.340][Performance] Performance - Frame render: 3.50ms
+[INFO][22:12:59.343][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.345][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(70, 105), vel=(0.90, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:12:59.347][Performance] Performance - Game update: 4.28ms
+[INFO][22:12:59.355][Performance] Performance - Frame render: 5.00ms
+[INFO][22:12:59.358][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.360][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(71, 105), vel=(1.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:12:59.361][Performance] Performance - Game update: 2.99ms
+[INFO][22:12:59.372][Performance] Performance - Frame render: 6.02ms
+[INFO][22:12:59.376][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.378][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(72, 105), vel=(1.10, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:12:59.379][Performance] Performance - Game update: 3.30ms
+[INFO][22:12:59.388][Performance] Performance - Frame render: 3.99ms
+[INFO][22:12:59.393][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.395][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(73, 105), vel=(1.20, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:12:59.396][Performance] Performance - Game update: 2.99ms
+[INFO][22:12:59.404][Performance] Performance - Frame render: 6.00ms
+[INFO][22:12:59.409][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.411][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(74, 105), vel=(1.30, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:12:59.412][Performance] Performance - Game update: 3.07ms
+[INFO][22:12:59.422][Performance] Performance - Frame render: 7.01ms
+[INFO][22:12:59.427][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.429][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(75, 92), vel=(1.40, -12.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:12:59.430][Performance] Performance - Game update: 2.98ms
+[INFO][22:12:59.437][Performance] Performance - Frame render: 5.02ms
+[INFO][22:12:59.442][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.445][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(77, 81), vel=(1.50, -11.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:12:59.445][Performance] Performance - Game update: 2.56ms
+[INFO][22:12:59.452][Performance] Performance - Frame render: 4.20ms
+[INFO][22:12:59.459][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.461][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(79, 70), vel=(1.60, -10.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:12:59.462][Performance] Performance - Game update: 2.98ms
+[INFO][22:12:59.470][Performance] Performance - Frame render: 5.00ms
+[INFO][22:12:59.476][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.478][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(81, 60), vel=(1.70, -9.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:12:59.479][Performance] Performance - Game update: 2.99ms
+[INFO][22:12:59.487][Performance] Performance - Frame render: 5.00ms
+[INFO][22:12:59.493][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.495][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(83, 51), vel=(1.80, -9.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:12:59.496][Performance] Performance - Game update: 2.98ms
+[INFO][22:12:59.504][Performance] Performance - Frame render: 4.99ms
+[INFO][22:12:59.510][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.512][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(85, 43), vel=(1.90, -8.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:12:59.514][Performance] Performance - Game update: 4.02ms
+[INFO][22:12:59.522][Performance] Performance - Frame render: 4.00ms
+[INFO][22:12:59.527][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.529][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(87, 36), vel=(2.00, -7.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:12:59.530][Performance] Performance - Game update: 2.99ms
+[INFO][22:12:59.538][Performance] Performance - Frame render: 3.99ms
+[INFO][22:12:59.544][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.546][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(89, 29), vel=(2.10, -6.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:12:59.548][Performance] Performance - Game update: 4.01ms
+[INFO][22:12:59.556][Performance] Performance - Frame render: 3.56ms
+[INFO][22:12:59.559][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.561][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(91, 23), vel=(2.20, -5.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:12:59.562][Performance] Performance - Game update: 3.00ms
+[INFO][22:12:59.570][Performance] Performance - Frame render: 5.03ms
+[INFO][22:12:59.575][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.577][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(93, 18), vel=(2.30, -5.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:12:59.578][Performance] Performance - Game update: 2.98ms
+[INFO][22:12:59.586][Performance] Performance - Frame render: 5.00ms
+[INFO][22:12:59.591][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.593][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(95, 14), vel=(2.40, -4.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:12:59.594][Performance] Performance - Game update: 3.00ms
+[INFO][22:12:59.602][Performance] Performance - Frame render: 4.98ms
+[INFO][22:12:59.607][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.609][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(98, 11), vel=(2.50, -3.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:12:59.610][Performance] Performance - Game update: 2.98ms
+[INFO][22:12:59.618][Performance] Performance - Frame render: 6.01ms
+[INFO][22:12:59.623][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.625][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(101, 8), vel=(2.60, -2.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:12:59.627][Performance] Performance - Game update: 3.56ms
+[INFO][22:12:59.636][Performance] Performance - Frame render: 7.11ms
+[INFO][22:12:59.640][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.644][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(104, 6), vel=(2.70, -1.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:12:59.645][Performance] Performance - Game update: 4.32ms
+[INFO][22:12:59.653][Performance] Performance - Frame render: 5.00ms
+[INFO][22:12:59.656][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.658][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(107, 5), vel=(2.80, -1.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:12:59.660][Performance] Performance - Game update: 4.36ms
+[INFO][22:12:59.668][Performance] Performance - Frame render: 5.02ms
+[INFO][22:12:59.673][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.675][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(110, 5), vel=(2.90, -0.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:12:59.676][Performance] Performance - Game update: 2.98ms
+[INFO][22:12:59.683][Performance] Performance - Frame render: 5.02ms
+[INFO][22:12:59.690][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.693][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(113, 6), vel=(3.00, 0.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:12:59.694][Performance] Performance - Game update: 4.00ms
+[INFO][22:12:59.702][Performance] Performance - Frame render: 6.01ms
+[INFO][22:12:59.707][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.709][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(116, 7), vel=(3.10, 1.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:12:59.709][Performance] Performance - Game update: 2.57ms
+[INFO][22:12:59.718][Performance] Performance - Frame render: 5.14ms
+[INFO][22:12:59.722][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.725][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(119, 9), vel=(3.20, 2.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:12:59.726][Performance] Performance - Game update: 4.00ms
+[INFO][22:12:59.734][Performance] Performance - Frame render: 5.02ms
+[INFO][22:12:59.738][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.740][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(122, 12), vel=(3.30, 3.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:12:59.741][Performance] Performance - Game update: 3.51ms
+[INFO][22:12:59.747][Performance] Performance - Frame render: 4.01ms
+[INFO][22:12:59.754][Performance] Performance - Player update: 1.00ms
+[TRACE][22:12:59.756][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(125, 16), vel=(3.40, 3.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:12:59.757][Performance] Performance - Game update: 4.00ms
+[INFO][22:12:59.765][Performance] Performance - Frame render: 4.00ms
+[INFO][22:12:59.770][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.773][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(129, 21), vel=(3.50, 4.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:12:59.775][Performance] Performance - Game update: 4.29ms
+[INFO][22:12:59.784][Performance] Performance - Frame render: 5.36ms
+[INFO][22:12:59.788][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.791][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(133, 26), vel=(3.60, 5.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:12:59.792][Performance] Performance - Game update: 3.99ms
+[INFO][22:12:59.801][Performance] Performance - Frame render: 7.00ms
+[INFO][22:12:59.805][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.809][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(137, 32), vel=(3.70, 6.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:12:59.810][Performance] Performance - Game update: 5.00ms
+[INFO][22:12:59.819][Performance] Performance - Frame render: 6.00ms
+[INFO][22:12:59.823][Performance] Performance - Player update: 1.00ms
+[TRACE][22:12:59.826][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(141, 39), vel=(3.80, 7.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:12:59.827][Performance] Performance - Game update: 5.01ms
+[INFO][22:12:59.836][Performance] Performance - Frame render: 6.19ms
+[INFO][22:12:59.839][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.842][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(145, 47), vel=(3.90, 7.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:12:59.843][Performance] Performance - Game update: 4.31ms
+[INFO][22:12:59.851][Performance] Performance - Frame render: 5.01ms
+[INFO][22:12:59.855][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.857][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(149, 56), vel=(4.00, 8.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:12:59.858][Performance] Performance - Game update: 2.99ms
+[INFO][22:12:59.868][Performance] Performance - Frame render: 7.00ms
+[INFO][22:12:59.879][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.885][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(153, 65), vel=(4.10, 9.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:12:59.886][Performance] Performance - Game update: 6.47ms
+[INFO][22:12:59.893][Performance] Performance - Frame render: 3.00ms
+[INFO][22:12:59.897][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.902][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(157, 75), vel=(4.20, 10.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:12:59.903][Performance] Performance - Game update: 6.00ms
+[INFO][22:12:59.910][Performance] Performance - Frame render: 4.00ms
+[INFO][22:12:59.914][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.919][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(161, 85), vel=(4.30, 10.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:12:59.920][Performance] Performance - Game update: 6.00ms
+[INFO][22:12:59.929][Performance] Performance - Frame render: 4.11ms
+[INFO][22:12:59.935][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.938][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(165, 95), vel=(4.40, 10.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:12:59.939][Performance] Performance - Game update: 4.00ms
+[INFO][22:12:59.945][Performance] Performance - Frame render: 4.01ms
+[INFO][22:12:59.951][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.954][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(170, 105), vel=(4.50, 10.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:12:59.955][Performance] Performance - Game update: 4.00ms
+[INFO][22:12:59.961][Performance] Performance - Frame render: 3.00ms
+[INFO][22:12:59.967][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.971][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(175, 105), vel=(4.60, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:12:59.971][Performance] Performance - Game update: 4.00ms
+[INFO][22:12:59.977][Performance] Performance - Frame render: 3.00ms
+[INFO][22:12:59.983][Performance] Performance - Player update: 0.00ms
+[TRACE][22:12:59.987][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(180, 105), vel=(4.70, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:12:59.988][Performance] Performance - Game update: 4.66ms
+[INFO][22:12:59.995][Performance] Performance - Frame render: 4.01ms
+[INFO][22:13:00.001][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.006][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(185, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:00.008][Performance] Performance - Game update: 6.52ms
+[INFO][22:13:00.019][Performance] Performance - Frame render: 7.09ms
+[INFO][22:13:00.023][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.027][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(185, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:00.028][Performance] Performance - Game update: 5.00ms
+[INFO][22:13:00.037][Performance] Performance - Frame render: 6.47ms
+[INFO][22:13:00.041][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.044][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(185, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:00.045][Performance] Performance - Game update: 4.00ms
+[INFO][22:13:00.053][Performance] Performance - Frame render: 4.99ms
+[INFO][22:13:00.057][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.060][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(185, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:00.061][Performance] Performance - Game update: 4.00ms
+[INFO][22:13:00.069][Performance] Performance - Frame render: 5.00ms
+[INFO][22:13:00.073][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.076][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(185, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:00.077][Performance] Performance - Game update: 3.99ms
+[INFO][22:13:00.086][Performance] Performance - Frame render: 6.14ms
+[INFO][22:13:00.091][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.094][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(185, 92), vel=(0.00, -12.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:00.094][Performance] Performance - Game update: 3.00ms
+[INFO][22:13:00.104][Performance] Performance - Frame render: 5.49ms
+[INFO][22:13:00.108][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.111][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(185, 81), vel=(0.00, -11.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:00.112][Performance] Performance - Game update: 3.99ms
+[INFO][22:13:00.122][Performance] Performance - Frame render: 4.41ms
+[INFO][22:13:00.128][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.133][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(185, 70), vel=(0.00, -10.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:00.135][Performance] Performance - Game update: 7.57ms
+[INFO][22:13:00.142][Performance] Performance - Frame render: 3.54ms
+[INFO][22:13:00.147][Performance] Performance - Player update: 1.46ms
+[TRACE][22:13:00.152][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(185, 60), vel=(0.10, -9.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:00.153][Performance] Performance - Game update: 6.48ms
+[INFO][22:13:00.160][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:00.166][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.170][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(185, 51), vel=(0.20, -9.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:00.171][Performance] Performance - Game update: 5.00ms
+[INFO][22:13:00.178][Performance] Performance - Frame render: 3.21ms
+[INFO][22:13:00.185][Performance] Performance - Player update: 1.28ms
+[TRACE][22:13:00.188][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(185, 43), vel=(0.30, -8.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:00.189][Performance] Performance - Game update: 5.29ms
+[INFO][22:13:00.201][Performance] Performance - Frame render: 5.92ms
+[INFO][22:13:00.206][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.210][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(185, 36), vel=(0.40, -7.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:00.211][Performance] Performance - Game update: 4.92ms
+[INFO][22:13:00.220][Performance] Performance - Frame render: 3.29ms
+[INFO][22:13:00.225][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.229][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(186, 29), vel=(0.50, -6.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:00.230][Performance] Performance - Game update: 4.99ms
+[INFO][22:13:00.240][Performance] Performance - Frame render: 3.52ms
+[INFO][22:13:00.245][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.250][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(187, 23), vel=(0.60, -5.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:00.251][Performance] Performance - Game update: 7.39ms
+[INFO][22:13:00.258][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:00.263][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.269][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(188, 18), vel=(0.70, -5.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:00.270][Performance] Performance - Game update: 7.34ms
+[INFO][22:13:00.276][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:00.283][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.287][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(189, 14), vel=(0.80, -4.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:00.288][Performance] Performance - Game update: 5.00ms
+[INFO][22:13:00.294][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:00.302][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.305][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(190, 11), vel=(0.90, -3.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:00.306][Performance] Performance - Game update: 5.00ms
+[INFO][22:13:00.314][Performance] Performance - Frame render: 4.99ms
+[INFO][22:13:00.322][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.326][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(191, 8), vel=(1.00, -2.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:00.327][Performance] Performance - Game update: 4.20ms
+[INFO][22:13:00.342][Performance] Performance - Frame render: 10.12ms
+[INFO][22:13:00.347][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.353][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(192, 6), vel=(1.10, -1.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:00.354][Performance] Performance - Game update: 7.00ms
+[INFO][22:13:00.361][Performance] Performance - Frame render: 4.01ms
+[INFO][22:13:00.368][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.386][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(193, 5), vel=(1.20, -1.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:00.387][Performance] Performance - Game update: 19.00ms
+[INFO][22:13:00.394][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:00.400][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.403][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(194, 5), vel=(1.30, -0.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:00.404][Performance] Performance - Game update: 5.00ms
+[INFO][22:13:00.411][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:00.417][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.421][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(195, 6), vel=(1.40, 0.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:00.422][Performance] Performance - Game update: 4.01ms
+[INFO][22:13:00.431][Performance] Performance - Frame render: 5.31ms
+[INFO][22:13:00.437][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.440][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(197, 7), vel=(1.50, 1.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:00.441][Performance] Performance - Game update: 4.64ms
+[INFO][22:13:00.449][Performance] Performance - Frame render: 5.01ms
+[INFO][22:13:00.454][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.458][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(199, 9), vel=(1.60, 2.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:00.459][Performance] Performance - Game update: 5.00ms
+[INFO][22:13:00.468][Performance] Performance - Frame render: 5.02ms
+[INFO][22:13:00.472][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.476][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(201, 12), vel=(1.70, 3.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:00.477][Performance] Performance - Game update: 3.98ms
+[INFO][22:13:00.486][Performance] Performance - Frame render: 4.26ms
+[INFO][22:13:00.491][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.494][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(203, 16), vel=(1.80, 3.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:00.495][Performance] Performance - Game update: 4.00ms
+[INFO][22:13:00.504][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:00.508][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.512][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(205, 21), vel=(1.90, 4.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:00.513][Performance] Performance - Game update: 5.00ms
+[INFO][22:13:00.522][Performance] Performance - Frame render: 3.98ms
+[INFO][22:13:00.526][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.531][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(207, 26), vel=(2.00, 5.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:00.533][Performance] Performance - Game update: 7.00ms
+[INFO][22:13:00.541][Performance] Performance - Frame render: 3.51ms
+[INFO][22:13:00.545][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.551][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(209, 32), vel=(2.10, 6.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:00.552][Performance] Performance - Game update: 7.48ms
+[INFO][22:13:00.558][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:00.564][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.569][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(211, 39), vel=(2.20, 7.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:00.570][Performance] Performance - Game update: 5.99ms
+[INFO][22:13:00.577][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:00.585][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.589][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(213, 47), vel=(2.30, 7.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:00.590][Performance] Performance - Game update: 6.00ms
+[INFO][22:13:00.598][Performance] Performance - Frame render: 4.99ms
+[INFO][22:13:00.605][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.609][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(215, 56), vel=(2.40, 8.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:00.610][Performance] Performance - Game update: 5.00ms
+[INFO][22:13:00.620][Performance] Performance - Frame render: 3.99ms
+[INFO][22:13:00.625][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.629][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(218, 65), vel=(2.50, 9.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:00.632][Performance] Performance - Game update: 6.11ms
+[INFO][22:13:00.641][Performance] Performance - Frame render: 3.25ms
+[INFO][22:13:00.647][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.653][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(221, 75), vel=(2.60, 10.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:00.654][Performance] Performance - Game update: 7.56ms
+[INFO][22:13:00.661][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:00.668][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.672][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(224, 85), vel=(2.70, 10.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:00.673][Performance] Performance - Game update: 5.00ms
+[INFO][22:13:00.681][Performance] Performance - Frame render: 5.00ms
+[INFO][22:13:00.687][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.690][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(227, 95), vel=(2.80, 10.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:00.691][Performance] Performance - Game update: 3.90ms
+[INFO][22:13:00.701][Performance] Performance - Frame render: 4.01ms
+[INFO][22:13:00.706][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.710][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 10.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:00.711][Performance] Performance - Game update: 5.07ms
+[INFO][22:13:00.721][Performance] Performance - Frame render: 3.84ms
+[INFO][22:13:00.726][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.731][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:00.733][Performance] Performance - Game update: 7.00ms
+[INFO][22:13:00.740][Performance] Performance - Frame render: 3.51ms
+[INFO][22:13:00.745][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.751][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:00.752][Performance] Performance - Game update: 6.99ms
+[INFO][22:13:00.760][Performance] Performance - Frame render: 3.01ms
+[INFO][22:13:00.767][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.772][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:00.773][Performance] Performance - Game update: 6.00ms
+[INFO][22:13:00.781][Performance] Performance - Frame render: 4.01ms
+[INFO][22:13:00.790][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.794][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:00.795][Performance] Performance - Game update: 4.99ms
+[INFO][22:13:00.804][Performance] Performance - Frame render: 4.02ms
+[INFO][22:13:00.809][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.814][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:00.817][Performance] Performance - Game update: 8.00ms
+[INFO][22:13:00.824][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:00.829][Performance] Performance - Player update: 1.00ms
+[TRACE][22:13:00.836][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:00.837][Performance] Performance - Game update: 8.84ms
+[INFO][22:13:00.843][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:00.850][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.854][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:00.855][Performance] Performance - Game update: 5.00ms
+[INFO][22:13:00.862][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:00.872][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.885][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:00.886][Performance] Performance - Game update: 14.00ms
+[INFO][22:13:00.894][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:00.901][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.905][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:00.906][Performance] Performance - Game update: 5.00ms
+[INFO][22:13:00.913][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:00.920][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.925][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:00.926][Performance] Performance - Game update: 6.00ms
+[INFO][22:13:00.936][Performance] Performance - Frame render: 4.99ms
+[INFO][22:13:00.941][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.947][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:00.949][Performance] Performance - Game update: 8.37ms
+[INFO][22:13:00.957][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:00.964][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.970][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:00.971][Performance] Performance - Game update: 6.80ms
+[INFO][22:13:00.980][Performance] Performance - Frame render: 2.98ms
+[INFO][22:13:00.987][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:00.992][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:00.993][Performance] Performance - Game update: 6.00ms
+[INFO][22:13:01.003][Performance] Performance - Frame render: 4.01ms
+[INFO][22:13:01.009] Player shooting. Position: (259, 122)
+[INFO][22:13:01.010][Performance] Performance - Player update: 0.98ms
+[TRACE][22:13:01.015][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:01.017][Performance] Performance - Game update: 7.98ms
+[INFO][22:13:01.025][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:01.031][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:01.039][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:01.040][Performance] Performance - Game update: 9.00ms
+[INFO][22:13:01.048][Performance] Performance - Frame render: 5.01ms
+[INFO][22:13:01.055][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:01.059][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:01.060][Performance] Performance - Game update: 5.00ms
+[INFO][22:13:01.071][Performance] Performance - Frame render: 4.99ms
+[INFO][22:13:01.076][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:01.082][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:01.084][Performance] Performance - Game update: 8.01ms
+[INFO][22:13:01.092][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:01.098][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:01.103][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:01.104][Performance] Performance - Game update: 6.52ms
+[INFO][22:13:01.111][Performance] Performance - Frame render: 2.99ms
+[INFO][22:13:01.119][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:01.124][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:01.124][Performance] Performance - Game update: 5.00ms
+[INFO][22:13:01.135][Performance] Performance - Frame render: 6.84ms
+[INFO][22:13:01.142][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:01.148][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:01.150][Performance] Performance - Game update: 8.86ms
+[INFO][22:13:01.158][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:01.166][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:01.172][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:01.173][Performance] Performance - Game update: 6.02ms
+[INFO][22:13:01.183][Performance] Performance - Frame render: 5.00ms
+[INFO][22:13:01.189][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:01.194][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:01.196][Performance] Performance - Game update: 7.21ms
+[INFO][22:13:01.205][Performance] Performance - Frame render: 4.01ms
+[INFO][22:13:01.210] Player shooting. Position: (259, 122)
+[INFO][22:13:01.211][Performance] Performance - Player update: 1.00ms
+[TRACE][22:13:01.218][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:01.219][Performance] Performance - Game update: 9.51ms
+[INFO][22:13:01.226][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:01.233][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:01.238][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:01.238][Performance] Performance - Game update: 5.01ms
+[INFO][22:13:01.250][Performance] Performance - Frame render: 5.00ms
+[INFO][22:13:01.256][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:01.264][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:01.267][Performance] Performance - Game update: 10.99ms
+[INFO][22:13:01.275][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:01.281][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:01.287][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:01.288][Performance] Performance - Game update: 6.99ms
+[INFO][22:13:01.296][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:01.305][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:01.309][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:01.310][Performance] Performance - Game update: 5.00ms
+[INFO][22:13:01.321][Performance] Performance - Frame render: 5.18ms
+[INFO][22:13:01.326][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:01.333][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:01.334][Performance] Performance - Game update: 8.01ms
+[INFO][22:13:01.343][Performance] Performance - Frame render: 3.55ms
+[INFO][22:13:01.351][Performance] Performance - Player update: 1.02ms
+[TRACE][22:13:01.355][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:01.356][Performance] Performance - Game update: 6.03ms
+[INFO][22:13:01.366][Performance] Performance - Frame render: 6.01ms
+[INFO][22:13:01.373][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:01.378][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:01.381][Performance] Performance - Game update: 7.02ms
+[INFO][22:13:01.390][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:01.397][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:01.405][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:01.406][Performance] Performance - Game update: 9.00ms
+[INFO][22:13:01.418][Performance] Performance - Frame render: 7.67ms
+[INFO][22:13:01.424] Player shooting. Position: (259, 122)
+[INFO][22:13:01.425][Performance] Performance - Player update: 0.99ms
+[TRACE][22:13:01.430][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:01.433][Performance] Performance - Game update: 9.06ms
+[INFO][22:13:01.441][Performance] Performance - Frame render: 3.51ms
+[INFO][22:13:01.450][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:01.455][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:01.456][Performance] Performance - Game update: 6.00ms
+[INFO][22:13:01.466][Performance] Performance - Frame render: 6.02ms
+[INFO][22:13:01.473][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:01.478][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:01.479][Performance] Performance - Game update: 6.00ms
+[INFO][22:13:01.491][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:01.498][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:01.506][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:01.507][Performance] Performance - Game update: 9.00ms
+[INFO][22:13:01.517][Performance] Performance - Frame render: 5.99ms
+[INFO][22:13:01.524][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:01.529][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:01.531][Performance] Performance - Game update: 7.98ms
+[INFO][22:13:01.543][Performance] Performance - Frame render: 3.53ms
+[INFO][22:13:01.550][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:01.555][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:01.556][Performance] Performance - Game update: 5.99ms
+[INFO][22:13:01.566][Performance] Performance - Frame render: 6.01ms
+[INFO][22:13:01.574][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:01.579][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:01.580][Performance] Performance - Game update: 7.20ms
+[INFO][22:13:01.590][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:01.596][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:01.604][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:01.605][Performance] Performance - Game update: 8.99ms
+[INFO][22:13:01.616][Performance] Performance - Frame render: 6.01ms
+[INFO][22:13:01.623][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:01.629][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(-0.10, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:01.631][Performance] Performance - Game update: 8.01ms
+[INFO][22:13:01.643][Performance] Performance - Frame render: 3.78ms
+[INFO][22:13:01.652][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:01.671][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(-0.20, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:01.672][Performance] Performance - Game update: 20.02ms
+[INFO][22:13:01.683][Performance] Performance - Frame render: 6.01ms
+[INFO][22:13:01.689][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:01.694][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(-0.30, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:01.696][Performance] Performance - Game update: 6.01ms
+[INFO][22:13:01.707][Performance] Performance - Frame render: 4.02ms
+[INFO][22:13:01.715][Performance] Performance - Player update: 1.06ms
+[TRACE][22:13:01.722][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 105), vel=(-0.40, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:01.723][Performance] Performance - Game update: 8.74ms
+[INFO][22:13:01.733][Performance] Performance - Frame render: 5.41ms
+[INFO][22:13:01.741][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:01.746][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 92), vel=(-0.50, -12.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:01.749][Performance] Performance - Game update: 8.70ms
+[INFO][22:13:01.759][Performance] Performance - Frame render: 4.01ms
+[INFO][22:13:01.768][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:01.773][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(229, 81), vel=(-0.60, -11.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:01.774][Performance] Performance - Game update: 6.00ms
+[INFO][22:13:01.785][Performance] Performance - Frame render: 6.04ms
+[INFO][22:13:01.791][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:01.799][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(228, 70), vel=(-0.70, -10.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:01.801][Performance] Performance - Game update: 9.99ms
+[INFO][22:13:01.810][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:01.820][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:01.826][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(227, 60), vel=(-0.80, -9.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:01.827][Performance] Performance - Game update: 7.10ms
+[INFO][22:13:01.838][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:01.845][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:01.855][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(226, 51), vel=(-0.90, -9.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:01.856][Performance] Performance - Game update: 11.01ms
+[INFO][22:13:01.870][Performance] Performance - Frame render: 7.45ms
+[INFO][22:13:01.881][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:01.892][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(225, 43), vel=(-1.00, -8.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:01.893][Performance] Performance - Game update: 12.26ms
+[INFO][22:13:01.919][Performance] Performance - Frame render: 8.01ms
+[INFO][22:13:01.927][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:01.937][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(224, 36), vel=(-1.10, -7.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:01.938][Performance] Performance - Game update: 11.94ms
+[INFO][22:13:01.953][Performance] Performance - Frame render: 5.00ms
+[INFO][22:13:01.962][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:01.970][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(223, 29), vel=(-1.20, -6.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:01.971][Performance] Performance - Game update: 9.27ms
+[INFO][22:13:01.981][Performance] Performance - Frame render: 5.00ms
+[INFO][22:13:01.989][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:01.999][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(222, 23), vel=(-1.30, -5.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:02.001][Performance] Performance - Game update: 11.56ms
+[INFO][22:13:02.013][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:02.023][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:02.032][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(221, 18), vel=(-1.40, -5.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:02.034][Performance] Performance - Game update: 11.21ms
+[INFO][22:13:02.043][Performance] Performance - Frame render: 3.53ms
+[INFO][22:13:02.052][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:02.058][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(220, 14), vel=(-1.50, -4.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:02.059][Performance] Performance - Game update: 8.00ms
+[INFO][22:13:02.074][Performance] Performance - Frame render: 5.68ms
+[INFO][22:13:02.085][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:02.090][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(218, 11), vel=(-1.60, -3.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:02.092][Performance] Performance - Game update: 7.01ms
+[INFO][22:13:02.105][Performance] Performance - Frame render: 4.03ms
+[INFO][22:13:02.112][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:02.121][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(216, 8), vel=(-1.70, -2.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:02.121][Performance] Performance - Game update: 8.99ms
+[INFO][22:13:02.134][Performance] Performance - Frame render: 6.00ms
+[INFO][22:13:02.140][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:02.151][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(214, 6), vel=(-1.80, -1.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:02.152][Performance] Performance - Game update: 11.53ms
+[INFO][22:13:02.161][Performance] Performance - Frame render: 3.78ms
+[INFO][22:13:02.176][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:02.184][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(212, 5), vel=(-1.90, -1.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:02.185][Performance] Performance - Game update: 9.00ms
+[INFO][22:13:02.193][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:02.202][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:02.208][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(210, 5), vel=(-2.00, -0.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:02.209][Performance] Performance - Game update: 7.01ms
+[INFO][22:13:02.219][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:02.227][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:02.234][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(208, 6), vel=(-2.10, 0.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:02.235][Performance] Performance - Game update: 8.01ms
+[INFO][22:13:02.243][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:02.250][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:02.256][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(206, 7), vel=(-2.20, 1.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:02.256][Performance] Performance - Game update: 6.01ms
+[INFO][22:13:02.268][Performance] Performance - Frame render: 5.93ms
+[INFO][22:13:02.274][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:02.282][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(204, 9), vel=(-2.30, 2.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:02.285][Performance] Performance - Game update: 10.36ms
+[INFO][22:13:02.294][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:02.302][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:02.307][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(202, 12), vel=(-2.40, 3.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:02.308][Performance] Performance - Game update: 6.00ms
+[INFO][22:13:02.319][Performance] Performance - Frame render: 5.02ms
+[INFO][22:13:02.325][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:02.332][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(200, 16), vel=(-2.50, 3.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:02.334][Performance] Performance - Game update: 9.04ms
+[INFO][22:13:02.342][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:02.351][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:02.356][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(197, 21), vel=(-2.60, 4.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:02.357][Performance] Performance - Game update: 6.00ms
+[INFO][22:13:02.368][Performance] Performance - Frame render: 6.01ms
+[INFO][22:13:02.376][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:02.384][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(194, 26), vel=(-2.70, 5.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:02.386][Performance] Performance - Game update: 10.11ms
+[INFO][22:13:02.399][Performance] Performance - Frame render: 5.11ms
+[INFO][22:13:02.405][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:02.411][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(191, 32), vel=(-2.80, 6.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:02.413][Performance] Performance - Game update: 8.01ms
+[INFO][22:13:02.424][Performance] Performance - Frame render: 4.29ms
+[INFO][22:13:02.431][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:02.438][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(188, 39), vel=(-2.90, 7.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:02.440][Performance] Performance - Game update: 8.57ms
+[INFO][22:13:02.452][Performance] Performance - Frame render: 5.00ms
+[INFO][22:13:02.460][Performance] Performance - Player update: 1.00ms
+[TRACE][22:13:02.466][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(185, 47), vel=(-3.00, 7.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:02.468][Performance] Performance - Game update: 9.01ms
+[INFO][22:13:02.476][Performance] Performance - Frame render: 3.04ms
+[INFO][22:13:02.490][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:02.500][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(182, 56), vel=(-3.10, 8.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:02.501][Performance] Performance - Game update: 11.08ms
+[INFO][22:13:02.517][Performance] Performance - Frame render: 7.01ms
+[INFO][22:13:02.529][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:02.540][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(179, 65), vel=(-3.20, 9.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:02.542][Performance] Performance - Game update: 13.00ms
+[INFO][22:13:02.558][Performance] Performance - Frame render: 5.00ms
+[INFO][22:13:02.569][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:02.578][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(176, 75), vel=(-3.30, 10.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:02.582][Performance] Performance - Game update: 13.10ms
+[INFO][22:13:02.592][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:02.604][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:02.617][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(173, 85), vel=(-3.40, 10.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:02.619][Performance] Performance - Game update: 15.57ms
+[INFO][22:13:02.631][Performance] Performance - Frame render: 5.01ms
+[INFO][22:13:02.641][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:02.648][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(170, 95), vel=(-3.50, 10.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:02.650][Performance] Performance - Game update: 9.87ms
+[INFO][22:13:02.660][Performance] Performance - Frame render: 4.48ms
+[INFO][22:13:02.677][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:02.687][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(166, 105), vel=(-3.60, 10.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:02.688][Performance] Performance - Game update: 11.00ms
+[INFO][22:13:02.699][Performance] Performance - Frame render: 5.50ms
+[INFO][22:13:02.707][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:02.713][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(162, 92), vel=(-3.70, -12.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:02.715][Performance] Performance - Game update: 8.07ms
+[INFO][22:13:02.726][Performance] Performance - Frame render: 3.18ms
+[INFO][22:13:02.735][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:02.741][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(158, 81), vel=(-3.80, -11.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:02.742][Performance] Performance - Game update: 7.00ms
+[INFO][22:13:02.755][Performance] Performance - Frame render: 4.62ms
+[INFO][22:13:02.761][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:02.770][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(154, 70), vel=(-3.90, -10.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:02.771][Performance] Performance - Game update: 10.23ms
+[INFO][22:13:02.781][Performance] Performance - Frame render: 5.02ms
+[INFO][22:13:02.789][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:02.795][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(150, 60), vel=(-4.00, -9.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:02.797][Performance] Performance - Game update: 8.00ms
+[INFO][22:13:02.807][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:02.816][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:02.822][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(146, 51), vel=(-4.10, -9.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:02.823][Performance] Performance - Game update: 6.00ms
+[INFO][22:13:02.836][Performance] Performance - Frame render: 6.68ms
+[INFO][22:13:02.843][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:02.851][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(142, 43), vel=(-4.20, -8.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:02.852][Performance] Performance - Game update: 9.13ms
+[INFO][22:13:02.862][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:02.871][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:02.878][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(138, 36), vel=(-4.30, -7.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:02.880][Performance] Performance - Game update: 9.48ms
+[INFO][22:13:02.891][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:02.902][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:02.908][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(134, 29), vel=(-4.40, -6.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:02.909][Performance] Performance - Game update: 7.06ms
+[INFO][22:13:02.920][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:02.926][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:02.934][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(130, 23), vel=(-4.50, -5.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:02.935][Performance] Performance - Game update: 9.01ms
+[INFO][22:13:02.945][Performance] Performance - Frame render: 3.42ms
+[INFO][22:13:02.953][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:02.959][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(125, 18), vel=(-4.60, -5.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:02.960][Performance] Performance - Game update: 6.62ms
+[INFO][22:13:02.972][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:02.980][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:02.990][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(125, 14), vel=(0.10, -4.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:02.991][Performance] Performance - Game update: 10.99ms
+[INFO][22:13:03.004][Performance] Performance - Frame render: 5.99ms
+[INFO][22:13:03.012][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:03.021][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(125, 11), vel=(0.20, -3.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:03.022][Performance] Performance - Game update: 10.00ms
+[INFO][22:13:03.031][Performance] Performance - Frame render: 4.66ms
+[INFO][22:13:03.041][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:03.050][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(125, 8), vel=(0.30, -2.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:03.051][Performance] Performance - Game update: 10.02ms
+[INFO][22:13:03.060][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:03.069][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:03.075][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(125, 6), vel=(0.40, -1.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:03.076][Performance] Performance - Game update: 6.98ms
+[INFO][22:13:03.088][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:03.095][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:03.107][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(126, 5), vel=(0.50, -1.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:03.108][Performance] Performance - Game update: 13.66ms
+[INFO][22:13:03.120][Performance] Performance - Frame render: 2.99ms
+[INFO][22:13:03.129][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:03.136][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(127, 5), vel=(0.60, -0.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:03.137][Performance] Performance - Game update: 8.50ms
+[INFO][22:13:03.149][Performance] Performance - Frame render: 5.83ms
+[INFO][22:13:03.158][Performance] Performance - Player update: 0.51ms
+[TRACE][22:13:03.180][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(128, 6), vel=(0.70, 0.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:03.181][Performance] Performance - Game update: 23.27ms
+[INFO][22:13:03.191][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:03.199][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:03.205][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(129, 7), vel=(0.80, 1.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:03.206][Performance] Performance - Game update: 6.97ms
+[INFO][22:13:03.217][Performance] Performance - Frame render: 5.13ms
+[INFO][22:13:03.225][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:03.232][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(130, 9), vel=(0.90, 2.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:03.233][Performance] Performance - Game update: 8.20ms
+[INFO][22:13:03.243][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:03.255][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:03.262][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(131, 12), vel=(1.00, 3.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:03.264][Performance] Performance - Game update: 8.36ms
+[INFO][22:13:03.276][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:03.284][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:03.290][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(132, 16), vel=(1.10, 3.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:03.291][Performance] Performance - Game update: 6.99ms
+[INFO][22:13:03.304][Performance] Performance - Frame render: 4.01ms
+[INFO][22:13:03.311][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:03.320][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(133, 21), vel=(1.20, 4.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:03.321][Performance] Performance - Game update: 9.33ms
+[INFO][22:13:03.332][Performance] Performance - Frame render: 4.91ms
+[INFO][22:13:03.340][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:03.349][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(134, 26), vel=(1.30, 5.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:03.350][Performance] Performance - Game update: 10.62ms
+[INFO][22:13:03.359][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:03.369][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:03.376][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(135, 32), vel=(1.40, 6.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:03.377][Performance] Performance - Game update: 8.00ms
+[INFO][22:13:03.389][Performance] Performance - Frame render: 3.02ms
+[INFO][22:13:03.400][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:03.407][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(137, 39), vel=(1.50, 7.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:03.408][Performance] Performance - Game update: 8.00ms
+[INFO][22:13:03.420][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:03.427][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:03.436][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(139, 47), vel=(1.60, 7.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:03.437][Performance] Performance - Game update: 10.24ms
+[INFO][22:13:03.449][Performance] Performance - Frame render: 5.52ms
+[INFO][22:13:03.457][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:03.466][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(141, 56), vel=(1.70, 8.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:03.467][Performance] Performance - Game update: 10.00ms
+[INFO][22:13:03.478][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:03.489][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:03.495][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(143, 65), vel=(1.80, 9.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:03.498][Performance] Performance - Game update: 9.00ms
+[INFO][22:13:03.509][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:03.520][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:03.526][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(145, 75), vel=(1.90, 10.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:03.527][Performance] Performance - Game update: 7.00ms
+[INFO][22:13:03.539][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:03.550][Performance] Performance - Player update: 1.00ms
+[TRACE][22:13:03.556][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(147, 85), vel=(2.00, 10.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:03.557][Performance] Performance - Game update: 7.99ms
+[INFO][22:13:03.570][Performance] Performance - Frame render: 2.98ms
+[INFO][22:13:03.579][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:03.588][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(149, 95), vel=(2.10, 10.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:03.589][Performance] Performance - Game update: 9.25ms
+[INFO][22:13:03.600][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:03.608][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:03.615][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(151, 105), vel=(2.20, 10.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:03.617][Performance] Performance - Game update: 10.34ms
+[INFO][22:13:03.626][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:03.637][Performance] Performance - Player update: 1.00ms
+[TRACE][22:13:03.645][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(153, 92), vel=(2.30, -12.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:03.647][Performance] Performance - Game update: 9.53ms
+[INFO][22:13:03.660][Performance] Performance - Frame render: 4.65ms
+[INFO][22:13:03.669][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:03.677][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(155, 81), vel=(2.40, -11.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:03.678][Performance] Performance - Game update: 8.61ms
+[INFO][22:13:03.689][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:03.698][Performance] Performance - Player update: 1.02ms
+[TRACE][22:13:03.707][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(158, 70), vel=(2.50, -10.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:03.707][Performance] Performance - Game update: 9.81ms
+[INFO][22:13:03.720][Performance] Performance - Frame render: 3.98ms
+[INFO][22:13:03.727][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:03.737][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(161, 60), vel=(2.60, -9.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:03.738][Performance] Performance - Game update: 10.49ms
+[INFO][22:13:03.749][Performance] Performance - Frame render: 5.52ms
+[INFO][22:13:03.758][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:03.767][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(164, 51), vel=(2.70, -9.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:03.768][Performance] Performance - Game update: 10.00ms
+[INFO][22:13:03.777][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:03.787][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:03.793][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(167, 43), vel=(2.80, -8.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:03.794][Performance] Performance - Game update: 7.00ms
+[INFO][22:13:03.806][Performance] Performance - Frame render: 3.94ms
+[INFO][22:13:03.816][Performance] Performance - Player update: 0.61ms
+[TRACE][22:13:03.822][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(170, 36), vel=(2.90, -7.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:03.824][Performance] Performance - Game update: 8.68ms
+[INFO][22:13:03.837][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:03.845][Performance] Performance - Player update: 0.51ms
+[TRACE][22:13:03.854][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(173, 29), vel=(3.00, -6.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:03.855][Performance] Performance - Game update: 9.92ms
+[INFO][22:13:03.868][Performance] Performance - Frame render: 5.00ms
+[INFO][22:13:03.877][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:03.887][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(176, 23), vel=(3.10, -5.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:03.888][Performance] Performance - Game update: 11.04ms
+[INFO][22:13:03.903][Performance] Performance - Frame render: 6.89ms
+[INFO][22:13:03.917][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:03.925][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(179, 18), vel=(3.20, -5.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:03.926][Performance] Performance - Game update: 9.24ms
+[INFO][22:13:03.938][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:03.945][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:03.955][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(182, 14), vel=(3.30, -4.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:03.956][Performance] Performance - Game update: 10.09ms
+[INFO][22:13:03.967][Performance] Performance - Frame render: 5.00ms
+[INFO][22:13:03.976][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:03.986][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(185, 11), vel=(3.40, -3.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:03.987][Performance] Performance - Game update: 10.33ms
+[INFO][22:13:04.000][Performance] Performance - Frame render: 5.00ms
+[INFO][22:13:04.008][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:04.017][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(189, 8), vel=(3.50, -2.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:04.019][Performance] Performance - Game update: 10.99ms
+[INFO][22:13:04.029][Performance] Performance - Frame render: 4.01ms
+[INFO][22:13:04.038][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:04.049][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(193, 6), vel=(3.60, -1.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:04.050][Performance] Performance - Game update: 11.72ms
+[INFO][22:13:04.061][Performance] Performance - Frame render: 4.04ms
+[INFO][22:13:04.071][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:04.077][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(197, 5), vel=(3.70, -1.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:04.079][Performance] Performance - Game update: 9.38ms
+[INFO][22:13:04.092][Performance] Performance - Frame render: 4.09ms
+[INFO][22:13:04.103][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:04.110][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(201, 5), vel=(3.80, -0.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:04.111][Performance] Performance - Game update: 8.00ms
+[INFO][22:13:04.125][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:04.134][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:04.142][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(205, 6), vel=(3.90, 0.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:04.143][Performance] Performance - Game update: 9.47ms
+[INFO][22:13:04.158][Performance] Performance - Frame render: 3.75ms
+[INFO][22:13:04.167][Performance] Performance - Player update: 0.69ms
+[TRACE][22:13:04.188][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(209, 7), vel=(4.00, 1.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:04.189][Performance] Performance - Game update: 22.14ms
+[INFO][22:13:04.201][Performance] Performance - Frame render: 5.66ms
+[INFO][22:13:04.209][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:04.219][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(213, 9), vel=(4.10, 2.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:04.220][Performance] Performance - Game update: 11.37ms
+[INFO][22:13:04.232][Performance] Performance - Frame render: 6.01ms
+[INFO][22:13:04.240][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:04.249][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(217, 12), vel=(4.20, 3.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:04.251][Performance] Performance - Game update: 10.97ms
+[INFO][22:13:04.264][Performance] Performance - Frame render: 5.45ms
+[INFO][22:13:04.273][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:04.281][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(221, 16), vel=(4.30, 3.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:04.283][Performance] Performance - Game update: 10.51ms
+[INFO][22:13:04.294][Performance] Performance - Frame render: 4.38ms
+[INFO][22:13:04.305][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:04.313][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(225, 21), vel=(4.40, 4.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:04.315][Performance] Performance - Game update: 10.34ms
+[INFO][22:13:04.327][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:04.336][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:04.343][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 26), vel=(4.50, 5.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:04.344][Performance] Performance - Game update: 8.00ms
+[INFO][22:13:04.358][Performance] Performance - Frame render: 4.52ms
+[INFO][22:13:04.368][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:04.376][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(235, 32), vel=(4.60, 6.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:04.377][Performance] Performance - Game update: 8.99ms
+[INFO][22:13:04.391][Performance] Performance - Frame render: 6.01ms
+[INFO][22:13:04.409][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:04.418][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(240, 39), vel=(0.00, 7.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:04.419][Performance] Performance - Game update: 10.00ms
+[INFO][22:13:04.429][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:04.439][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:04.447][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(240, 47), vel=(0.00, 7.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:04.450][Performance] Performance - Game update: 10.74ms
+[INFO][22:13:04.467][Performance] Performance - Frame render: 6.90ms
+[INFO][22:13:04.475][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:04.485][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(240, 56), vel=(0.00, 8.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:04.486][Performance] Performance - Game update: 11.36ms
+[INFO][22:13:04.500][Performance] Performance - Frame render: 6.70ms
+[INFO][22:13:04.509][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:04.520][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(240, 65), vel=(0.00, 9.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:04.521][Performance] Performance - Game update: 12.00ms
+[INFO][22:13:04.535][Performance] Performance - Frame render: 4.01ms
+[INFO][22:13:04.544][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:04.553][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(240, 75), vel=(0.00, 10.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:04.554][Performance] Performance - Game update: 10.59ms
+[INFO][22:13:04.567][Performance] Performance - Frame render: 6.01ms
+[INFO][22:13:04.578][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:04.587][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(240, 85), vel=(0.00, 10.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:04.588][Performance] Performance - Game update: 11.05ms
+[INFO][22:13:04.602][Performance] Performance - Frame render: 4.09ms
+[INFO][22:13:04.610][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:04.621][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(240, 95), vel=(0.00, 10.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:04.622][Performance] Performance - Game update: 12.26ms
+[INFO][22:13:04.636][Performance] Performance - Frame render: 4.03ms
+[INFO][22:13:04.645][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:04.656][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(240, 105), vel=(0.00, 10.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:04.657][Performance] Performance - Game update: 12.53ms
+[INFO][22:13:04.671][Performance] Performance - Frame render: 3.63ms
+[INFO][22:13:04.687][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:04.693][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(240, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:04.694][Performance] Performance - Game update: 7.07ms
+[INFO][22:13:04.709][Performance] Performance - Frame render: 3.98ms
+[INFO][22:13:04.719][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:04.727][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(240, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:04.729][Performance] Performance - Game update: 10.08ms
+[INFO][22:13:04.743][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:04.753][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:04.761][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(240, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:04.763][Performance] Performance - Game update: 10.00ms
+[INFO][22:13:04.776][Performance] Performance - Frame render: 3.99ms
+[INFO][22:13:04.786][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:04.794][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(240, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:04.795][Performance] Performance - Game update: 9.00ms
+[INFO][22:13:04.810][Performance] Performance - Frame render: 3.99ms
+[INFO][22:13:04.820][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:04.828][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(240, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:04.830][Performance] Performance - Game update: 10.45ms
+[INFO][22:13:04.842][Performance] Performance - Frame render: 3.01ms
+[INFO][22:13:04.852][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:04.860][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(240, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:04.862][Performance] Performance - Game update: 9.99ms
+[INFO][22:13:04.879][Performance] Performance - Frame render: 2.96ms
+[INFO][22:13:04.891][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:04.907][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(240, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:04.908][Performance] Performance - Game update: 17.88ms
+[INFO][22:13:04.923][Performance] Performance - Frame render: 4.05ms
+[INFO][22:13:04.933][Performance] Performance - Player update: 1.00ms
+[TRACE][22:13:04.940][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(240, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:04.942][Performance] Performance - Game update: 7.99ms
+[INFO][22:13:04.955][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:04.966][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:04.973][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(240, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:04.974][Performance] Performance - Game update: 8.00ms
+[INFO][22:13:04.990][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:05.002][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:05.009][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(240, 105), vel=(-0.10, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:05.010][Performance] Performance - Game update: 8.42ms
+[INFO][22:13:05.023][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:05.035][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:05.042][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(240, 105), vel=(-0.20, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:05.043][Performance] Performance - Game update: 9.01ms
+[INFO][22:13:05.055][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:05.066][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:05.075][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(240, 105), vel=(-0.30, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:05.075][Performance] Performance - Game update: 8.87ms
+[INFO][22:13:05.089][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:05.099][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:05.107][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(240, 92), vel=(-0.40, -12.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:05.108][Performance] Performance - Game update: 9.00ms
+[INFO][22:13:05.120][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:05.130][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:05.140][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(240, 81), vel=(-0.50, -11.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:05.141][Performance] Performance - Game update: 10.48ms
+[INFO][22:13:05.155][Performance] Performance - Frame render: 5.05ms
+[INFO][22:13:05.173][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:05.184][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(239, 70), vel=(-0.60, -10.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:05.185][Performance] Performance - Game update: 11.50ms
+[INFO][22:13:05.198][Performance] Performance - Frame render: 4.99ms
+[INFO][22:13:05.207][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:05.218][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(238, 60), vel=(-0.70, -9.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:05.219][Performance] Performance - Game update: 12.61ms
+[INFO][22:13:05.234][Performance] Performance - Frame render: 5.01ms
+[INFO][22:13:05.243][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:05.253][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(237, 51), vel=(-0.80, -9.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:05.254][Performance] Performance - Game update: 11.39ms
+[INFO][22:13:05.268][Performance] Performance - Frame render: 6.06ms
+[INFO][22:13:05.277][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:05.287][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(236, 43), vel=(-0.90, -8.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:05.288][Performance] Performance - Game update: 11.00ms
+[INFO][22:13:05.302][Performance] Performance - Frame render: 3.08ms
+[INFO][22:13:05.311][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:05.320][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(235, 36), vel=(-1.00, -7.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:05.322][Performance] Performance - Game update: 11.05ms
+[INFO][22:13:05.335][Performance] Performance - Frame render: 3.10ms
+[INFO][22:13:05.345][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:05.356][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(234, 29), vel=(-1.10, -6.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:05.358][Performance] Performance - Game update: 13.54ms
+[INFO][22:13:05.370][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:05.379][Performance] Performance - Player update: 1.36ms
+[TRACE][22:13:05.388][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(233, 23), vel=(-1.20, -5.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:05.388][Performance] Performance - Game update: 10.37ms
+[INFO][22:13:05.405][Performance] Performance - Frame render: 4.13ms
+[INFO][22:13:05.415][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:05.423][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(232, 18), vel=(-1.30, -5.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:05.425][Performance] Performance - Game update: 8.95ms
+[INFO][22:13:05.441][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:05.452][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:05.459][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(231, 14), vel=(-1.40, -4.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:05.460][Performance] Performance - Game update: 8.11ms
+[INFO][22:13:05.474][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:05.486][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:05.494][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 11), vel=(-1.50, -3.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:05.496][Performance] Performance - Game update: 10.22ms
+[INFO][22:13:05.509][Performance] Performance - Frame render: 3.97ms
+[INFO][22:13:06.438][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:06.447][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(164, 105), vel=(-2.40, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:06.449][Performance] Performance - Game update: 10.02ms
+[INFO][22:13:06.462][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:06.472][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:06.481][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(162, 105), vel=(-2.50, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:06.483][Performance] Performance - Game update: 10.95ms
+[INFO][22:13:06.497][Performance] Performance - Frame render: 3.91ms
+[INFO][22:13:06.507][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:06.518][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(160, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:06.519][Performance] Performance - Game update: 12.00ms
+[INFO][22:13:06.533][Performance] Performance - Frame render: 6.74ms
+[INFO][22:13:06.542][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:06.551][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(160, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:06.552][Performance] Performance - Game update: 9.52ms
+[INFO][22:13:06.566][Performance] Performance - Frame render: 6.00ms
+[INFO][22:13:06.575][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:06.585][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(160, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:06.586][Performance] Performance - Game update: 11.00ms
+[INFO][22:13:06.599][Performance] Performance - Frame render: 5.15ms
+[INFO][22:13:06.609][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:06.618][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(160, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:06.620][Performance] Performance - Game update: 9.98ms
+[INFO][22:13:06.633][Performance] Performance - Frame render: 4.73ms
+[INFO][22:13:06.642][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:06.653][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(160, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:06.654][Performance] Performance - Game update: 11.50ms
+[INFO][22:13:06.667][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:06.677][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:06.687][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(160, 105), vel=(0.10, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:06.688][Performance] Performance - Game update: 10.99ms
+[INFO][22:13:06.704][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:06.717][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:06.725][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(160, 92), vel=(0.20, -12.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:06.727][Performance] Performance - Game update: 9.51ms
+[INFO][22:13:06.742][Performance] Performance - Frame render: 4.01ms
+[INFO][22:13:06.753][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:06.762][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(160, 81), vel=(0.30, -11.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:06.764][Performance] Performance - Game update: 11.00ms
+[INFO][22:13:06.781][Performance] Performance - Frame render: 5.54ms
+[INFO][22:13:06.793][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:06.802][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(160, 70), vel=(0.40, -10.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:06.803][Performance] Performance - Game update: 10.99ms
+[INFO][22:13:06.816][Performance] Performance - Frame render: 5.01ms
+[INFO][22:13:06.826][Performance] Performance - Player update: 1.00ms
+[TRACE][22:13:06.836][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(161, 60), vel=(0.50, -9.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:06.837][Performance] Performance - Game update: 12.02ms
+[INFO][22:13:06.853][Performance] Performance - Frame render: 5.39ms
+[INFO][22:13:06.863][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:06.872][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(162, 51), vel=(0.60, -9.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:06.873][Performance] Performance - Game update: 10.00ms
+[INFO][22:13:06.886][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:06.897][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:06.908][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(163, 43), vel=(0.70, -8.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:06.910][Performance] Performance - Game update: 14.00ms
+[INFO][22:13:06.922][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:06.935][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:06.943][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(164, 36), vel=(0.80, -7.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:06.944][Performance] Performance - Game update: 9.00ms
+[INFO][22:13:06.959][Performance] Performance - Frame render: 3.99ms
+[INFO][22:13:06.973][Performance] Performance - Player update: 1.29ms
+[TRACE][22:13:06.982][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(165, 29), vel=(0.90, -6.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:06.984][Performance] Performance - Game update: 11.29ms
+[INFO][22:13:06.996][Performance] Performance - Frame render: 5.02ms
+[INFO][22:13:07.008][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:07.020][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(166, 23), vel=(1.00, -5.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:07.020][Performance] Performance - Game update: 11.97ms
+[INFO][22:13:07.036][Performance] Performance - Frame render: 5.44ms
+[INFO][22:13:07.046][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:07.060][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(167, 18), vel=(1.10, -5.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:07.062][Performance] Performance - Game update: 16.17ms
+[INFO][22:13:07.078][Performance] Performance - Frame render: 5.04ms
+[INFO][22:13:07.091][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:07.103][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(168, 14), vel=(1.20, -4.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:07.104][Performance] Performance - Game update: 14.03ms
+[INFO][22:13:07.118][Performance] Performance - Frame render: 3.99ms
+[INFO][22:13:07.128][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:07.138][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(169, 11), vel=(1.30, -3.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:07.141][Performance] Performance - Game update: 13.01ms
+[INFO][22:13:07.157][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:07.171][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:07.184][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(170, 8), vel=(1.40, -2.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:07.185][Performance] Performance - Game update: 13.71ms
+[INFO][22:13:07.199][Performance] Performance - Frame render: 5.00ms
+[INFO][22:13:07.209][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:07.221][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(172, 6), vel=(1.50, -1.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:07.222][Performance] Performance - Game update: 13.07ms
+[INFO][22:13:07.235][Performance] Performance - Frame render: 4.04ms
+[INFO][22:13:07.245][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:07.255][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(174, 5), vel=(1.60, -1.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:07.256][Performance] Performance - Game update: 10.55ms
+[INFO][22:13:07.270][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:07.281][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:07.292][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(176, 5), vel=(1.70, -0.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:07.294][Performance] Performance - Game update: 13.89ms
+[INFO][22:13:07.309][Performance] Performance - Frame render: 3.39ms
+[INFO][22:13:07.325][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:07.337][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(178, 6), vel=(1.80, 0.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:07.338][Performance] Performance - Game update: 13.03ms
+[INFO][22:13:07.352][Performance] Performance - Frame render: 3.53ms
+[INFO][22:13:07.364][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:07.373][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(180, 7), vel=(1.90, 1.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:07.374][Performance] Performance - Game update: 10.00ms
+[INFO][22:13:07.387][Performance] Performance - Frame render: 2.99ms
+[INFO][22:13:07.400][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:07.409][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(182, 9), vel=(2.00, 2.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:07.410][Performance] Performance - Game update: 10.43ms
+[INFO][22:13:07.425][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:07.444][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:07.456][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(184, 12), vel=(2.10, 3.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:07.457][Performance] Performance - Game update: 12.99ms
+[INFO][22:13:07.470][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:07.482][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:07.491][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(186, 16), vel=(2.20, 3.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:07.492][Performance] Performance - Game update: 9.00ms
+[INFO][22:13:07.507][Performance] Performance - Frame render: 3.53ms
+[INFO][22:13:07.518][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:07.526][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(188, 21), vel=(2.30, 4.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:07.528][Performance] Performance - Game update: 10.00ms
+[INFO][22:13:07.544][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:07.556][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:07.567][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(190, 26), vel=(2.40, 5.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:07.568][Performance] Performance - Game update: 12.09ms
+[INFO][22:13:07.582][Performance] Performance - Frame render: 6.00ms
+[INFO][22:13:07.592][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:07.606][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(193, 32), vel=(2.50, 6.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:07.607][Performance] Performance - Game update: 14.67ms
+[INFO][22:13:07.622][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:07.633][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:07.644][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(196, 39), vel=(2.60, 7.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:07.647][Performance] Performance - Game update: 13.99ms
+[INFO][22:13:07.660][Performance] Performance - Frame render: 3.99ms
+[INFO][22:13:07.671][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:07.686][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(199, 47), vel=(2.70, 7.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:07.687][Performance] Performance - Game update: 15.55ms
+[INFO][22:13:07.701][Performance] Performance - Frame render: 4.31ms
+[INFO][22:13:07.713][Performance] Performance - Player update: 1.00ms
+[TRACE][22:13:07.724][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(202, 56), vel=(2.80, 8.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:07.725][Performance] Performance - Game update: 13.66ms
+[INFO][22:13:07.740][Performance] Performance - Frame render: 4.10ms
+[INFO][22:13:07.753][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:07.763][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(205, 65), vel=(2.90, 9.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:07.765][Performance] Performance - Game update: 12.01ms
+[INFO][22:13:07.784][Performance] Performance - Frame render: 6.45ms
+[INFO][22:13:07.798][Performance] Performance - Player update: 0.99ms
+[TRACE][22:13:07.808][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(208, 75), vel=(3.00, 10.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:07.809][Performance] Performance - Game update: 11.89ms
+[INFO][22:13:07.825][Performance] Performance - Frame render: 3.56ms
+[INFO][22:13:07.842][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:07.853][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(211, 85), vel=(3.10, 10.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:07.854][Performance] Performance - Game update: 11.92ms
+[INFO][22:13:07.868][Performance] Performance - Frame render: 3.99ms
+[INFO][22:13:07.878][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:07.892][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(214, 95), vel=(3.20, 10.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:07.893][Performance] Performance - Game update: 15.00ms
+[INFO][22:13:07.907][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:07.926][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:07.943][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(217, 105), vel=(3.30, 10.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:07.944][Performance] Performance - Game update: 18.46ms
+[INFO][22:13:07.967][Performance] Performance - Frame render: 7.00ms
+[INFO][22:13:07.984][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:08.002][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(220, 105), vel=(3.40, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:08.004][Performance] Performance - Game update: 18.88ms
+[INFO][22:13:08.023][Performance] Performance - Frame render: 4.97ms
+[INFO][22:13:08.040][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:08.058][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(224, 105), vel=(3.50, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:08.059][Performance] Performance - Game update: 18.88ms
+[INFO][22:13:08.085][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:08.098][Performance] Performance - Player update: 0.51ms
+[TRACE][22:13:08.107][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(228, 92), vel=(3.60, -12.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:08.108][Performance] Performance - Game update: 10.52ms
+[INFO][22:13:08.122][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:08.135][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:08.144][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(232, 81), vel=(3.70, -11.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:08.147][Performance] Performance - Game update: 12.03ms
+[INFO][22:13:08.161][Performance] Performance - Frame render: 3.77ms
+[INFO][22:13:08.172][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:08.184][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(236, 70), vel=(3.80, -10.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:08.185][Performance] Performance - Game update: 13.00ms
+[INFO][22:13:08.199][Performance] Performance - Frame render: 5.02ms
+[INFO][22:13:08.210][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:08.222][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(240, 60), vel=(3.90, -9.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:08.224][Performance] Performance - Game update: 14.08ms
+[INFO][22:13:08.238][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:08.250][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:08.260][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(244, 51), vel=(4.00, -9.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:08.262][Performance] Performance - Game update: 12.60ms
+[INFO][22:13:08.277][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:08.290][Performance] Performance - Player update: 1.00ms
+[TRACE][22:13:08.302][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(248, 43), vel=(4.10, -8.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:08.303][Performance] Performance - Game update: 14.00ms
+[INFO][22:13:08.319][Performance] Performance - Frame render: 5.24ms
+[INFO][22:13:08.330][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:08.341][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(252, 36), vel=(4.20, -7.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:08.342][Performance] Performance - Game update: 11.32ms
+[INFO][22:13:08.358][Performance] Performance - Frame render: 3.01ms
+[INFO][22:13:08.371][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:08.382][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(256, 29), vel=(4.30, -6.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:08.384][Performance] Performance - Game update: 12.32ms
+[INFO][22:13:08.398][Performance] Performance - Frame render: 5.30ms
+[INFO][22:13:08.409][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:08.420][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(260, 23), vel=(0.00, -5.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:08.421][Performance] Performance - Game update: 11.99ms
+[INFO][22:13:08.437][Performance] Performance - Frame render: 3.01ms
+[INFO][22:13:08.451][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:08.467][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(260, 18), vel=(-0.10, -5.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:08.468][Performance] Performance - Game update: 16.15ms
+[INFO][22:13:08.481][Performance] Performance - Frame render: 3.99ms
+[INFO][22:13:08.491][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:08.503][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(260, 14), vel=(-0.20, -4.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:08.504][Performance] Performance - Game update: 12.11ms
+[INFO][22:13:08.517][Performance] Performance - Frame render: 5.00ms
+[INFO][22:13:08.527][Performance] Performance - Player update: 1.00ms
+[TRACE][22:13:08.540][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(260, 11), vel=(-0.30, -3.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:08.541][Performance] Performance - Game update: 14.45ms
+[INFO][22:13:08.559][Performance] Performance - Frame render: 4.11ms
+[INFO][22:13:08.571][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:08.583][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(260, 8), vel=(-0.40, -2.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:08.584][Performance] Performance - Game update: 13.00ms
+[INFO][22:13:08.599][Performance] Performance - Frame render: 6.25ms
+[INFO][22:13:08.609][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:08.623][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(260, 6), vel=(-0.50, -1.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:08.624][Performance] Performance - Game update: 15.00ms
+[INFO][22:13:08.638][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:08.651][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:08.662][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(259, 5), vel=(-0.60, -1.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:08.664][Performance] Performance - Game update: 12.99ms
+[INFO][22:13:08.678][Performance] Performance - Frame render: 5.00ms
+[INFO][22:13:08.690][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:08.700][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(258, 5), vel=(-0.70, -0.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:08.701][Performance] Performance - Game update: 11.00ms
+[INFO][22:13:08.716][Performance] Performance - Frame render: 4.02ms
+[INFO][22:13:08.728][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:08.739][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(257, 6), vel=(-0.80, 0.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:08.740][Performance] Performance - Game update: 11.76ms
+[INFO][22:13:08.757][Performance] Performance - Frame render: 2.99ms
+[INFO][22:13:08.770][Performance] Performance - Player update: 1.00ms
+[TRACE][22:13:08.780][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(256, 7), vel=(-0.90, 1.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:08.782][Performance] Performance - Game update: 13.00ms
+[INFO][22:13:08.796][Performance] Performance - Frame render: 4.02ms
+[INFO][22:13:08.808][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:08.826][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(255, 9), vel=(-1.00, 2.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:08.828][Performance] Performance - Game update: 19.49ms
+[INFO][22:13:08.843][Performance] Performance - Frame render: 3.98ms
+[INFO][22:13:08.857][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:08.870][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(254, 12), vel=(-1.10, 3.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:08.871][Performance] Performance - Game update: 13.66ms
+[INFO][22:13:08.888][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:08.902][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:08.913][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(253, 16), vel=(-1.20, 3.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:08.915][Performance] Performance - Game update: 12.00ms
+[INFO][22:13:08.932][Performance] Performance - Frame render: 6.89ms
+[INFO][22:13:08.945][Performance] Performance - Player update: 0.99ms
+[TRACE][22:13:08.955][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(252, 21), vel=(-1.30, 4.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:08.956][Performance] Performance - Game update: 11.50ms
+[INFO][22:13:08.973][Performance] Performance - Frame render: 4.01ms
+[INFO][22:13:08.989][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:09.001][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(251, 26), vel=(-1.40, 5.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:09.002][Performance] Performance - Game update: 13.99ms
+[INFO][22:13:09.017][Performance] Performance - Frame render: 4.08ms
+[INFO][22:13:09.031][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:09.043][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(250, 32), vel=(-1.50, 6.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:09.045][Performance] Performance - Game update: 13.79ms
+[INFO][22:13:09.068][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:09.081][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:09.091][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(248, 39), vel=(-1.60, 7.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:09.092][Performance] Performance - Game update: 11.00ms
+[INFO][22:13:09.109][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:09.123][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:09.134][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(246, 47), vel=(-1.70, 7.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:09.135][Performance] Performance - Game update: 12.51ms
+[INFO][22:13:09.152][Performance] Performance - Frame render: 3.49ms
+[INFO][22:13:09.164][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:09.174][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(244, 56), vel=(-1.80, 8.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:09.175][Performance] Performance - Game update: 11.01ms
+[INFO][22:13:09.190][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:09.203][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:09.215][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(242, 65), vel=(-1.90, 9.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:09.216][Performance] Performance - Game update: 12.97ms
+[INFO][22:13:09.233][Performance] Performance - Frame render: 5.16ms
+[INFO][22:13:09.248][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:09.258][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(240, 75), vel=(-2.00, 10.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:09.261][Performance] Performance - Game update: 12.33ms
+[INFO][22:13:09.279][Performance] Performance - Frame render: 5.01ms
+[INFO][22:13:09.292][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:09.307][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(238, 85), vel=(-2.10, 10.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:09.308][Performance] Performance - Game update: 15.13ms
+[INFO][22:13:09.326][Performance] Performance - Frame render: 3.83ms
+[INFO][22:13:09.343][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:09.354][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(236, 95), vel=(-2.20, 10.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:09.355][Performance] Performance - Game update: 12.52ms
+[INFO][22:13:09.371][Performance] Performance - Frame render: 4.01ms
+[INFO][22:13:09.384][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:09.394][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(234, 105), vel=(-2.30, 10.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:09.397][Performance] Performance - Game update: 13.39ms
+[INFO][22:13:09.413][Performance] Performance - Frame render: 4.49ms
+[INFO][22:13:09.427][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:09.440][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(232, 105), vel=(-2.40, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:09.442][Performance] Performance - Game update: 14.36ms
+[INFO][22:13:09.460][Performance] Performance - Frame render: 4.01ms
+[INFO][22:13:09.473][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:09.486][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(230, 92), vel=(-2.50, -12.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:09.487][Performance] Performance - Game update: 13.92ms
+[INFO][22:13:09.502][Performance] Performance - Frame render: 3.01ms
+[INFO][22:13:09.513][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:09.524][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(227, 81), vel=(-2.60, -11.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:09.525][Performance] Performance - Game update: 12.15ms
+[INFO][22:13:09.540][Performance] Performance - Frame render: 4.52ms
+[INFO][22:13:09.565][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:09.576][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(224, 70), vel=(-2.70, -10.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:09.578][Performance] Performance - Game update: 11.00ms
+[INFO][22:13:09.594][Performance] Performance - Frame render: 4.01ms
+[INFO][22:13:09.606][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:09.618][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(221, 60), vel=(-2.80, -9.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:09.618][Performance] Performance - Game update: 11.50ms
+[INFO][22:13:09.634][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:09.647][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:09.656][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(218, 51), vel=(-2.90, -9.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:09.657][Performance] Performance - Game update: 11.63ms
+[INFO][22:13:09.675][Performance] Performance - Frame render: 3.92ms
+[INFO][22:13:09.687][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:09.700][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(215, 43), vel=(-3.00, -8.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:09.701][Performance] Performance - Game update: 14.12ms
+[INFO][22:13:09.717][Performance] Performance - Frame render: 3.69ms
+[INFO][22:13:09.730][Performance] Performance - Player update: 1.01ms
+[TRACE][22:13:09.740][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(212, 36), vel=(-3.10, -7.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:09.741][Performance] Performance - Game update: 12.30ms
+[INFO][22:13:09.756][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:09.768][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:09.780][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(209, 29), vel=(-3.20, -6.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:09.782][Performance] Performance - Game update: 12.94ms
+[INFO][22:13:09.797][Performance] Performance - Frame render: 4.64ms
+[INFO][22:13:09.812][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:09.829][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(206, 23), vel=(-3.30, -5.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:09.832][Performance] Performance - Game update: 19.66ms
+[INFO][22:13:09.848][Performance] Performance - Frame render: 4.99ms
+[INFO][22:13:09.861][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:09.873][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(203, 18), vel=(-3.40, -5.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:09.874][Performance] Performance - Game update: 13.00ms
+[INFO][22:13:09.892][Performance] Performance - Frame render: 4.17ms
+[INFO][22:13:09.907][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:09.920][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(200, 14), vel=(-3.50, -4.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:09.921][Performance] Performance - Game update: 13.87ms
+[INFO][22:13:09.937][Performance] Performance - Frame render: 4.05ms
+[INFO][22:13:09.949][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:09.963][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(196, 11), vel=(-3.60, -3.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:09.965][Performance] Performance - Game update: 16.03ms
+[INFO][22:13:09.984][Performance] Performance - Frame render: 5.18ms
+[INFO][22:13:09.999][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:10.009][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(192, 8), vel=(-3.70, -2.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:10.012][Performance] Performance - Game update: 13.44ms
+[INFO][22:13:10.031][Performance] Performance - Frame render: 6.36ms
+[INFO][22:13:10.046][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:10.061][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(188, 6), vel=(-3.80, -1.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:10.064][Performance] Performance - Game update: 18.49ms
+[INFO][22:13:10.083][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:10.096][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:10.108][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(184, 5), vel=(-3.90, -1.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:10.109][Performance] Performance - Game update: 13.01ms
+[INFO][22:13:10.124][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:10.137][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:10.149][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(180, 5), vel=(-4.00, -0.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:10.150][Performance] Performance - Game update: 12.11ms
+[INFO][22:13:10.165][Performance] Performance - Frame render: 6.05ms
+[INFO][22:13:10.176][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:10.188][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(176, 6), vel=(-4.10, 0.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:10.190][Performance] Performance - Game update: 13.96ms
+[INFO][22:13:10.207][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:10.220][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:10.233][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(172, 7), vel=(-4.20, 1.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:10.234][Performance] Performance - Game update: 14.21ms
+[INFO][22:13:10.251][Performance] Performance - Frame render: 5.12ms
+[INFO][22:13:10.263][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:10.275][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(168, 9), vel=(-4.30, 2.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:10.277][Performance] Performance - Game update: 14.03ms
+[INFO][22:13:10.292][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:10.305][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:10.318][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(164, 12), vel=(-4.40, 3.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:10.320][Performance] Performance - Game update: 13.90ms
+[INFO][22:13:10.349][Performance] Performance - Frame render: 5.92ms
+[INFO][22:13:10.361][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:10.375][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(160, 16), vel=(-4.50, 3.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:10.375][Performance] Performance - Game update: 14.00ms
+[INFO][22:13:10.391][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:10.406][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:10.418][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(155, 21), vel=(-4.60, 4.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:10.419][Performance] Performance - Game update: 13.77ms
+[INFO][22:13:10.434][Performance] Performance - Frame render: 4.01ms
+[INFO][22:13:10.447][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:10.458][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(150, 26), vel=(-4.70, 5.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:10.460][Performance] Performance - Game update: 12.52ms
+[INFO][22:13:10.477][Performance] Performance - Frame render: 3.93ms
+[INFO][22:13:10.491][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:10.504][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(145, 32), vel=(-4.80, 6.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:10.505][Performance] Performance - Game update: 13.53ms
+[INFO][22:13:10.520][Performance] Performance - Frame render: 2.99ms
+[INFO][22:13:10.534][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:10.545][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(140, 39), vel=(-4.90, 7.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:10.548][Performance] Performance - Game update: 14.01ms
+[INFO][22:13:10.565][Performance] Performance - Frame render: 6.57ms
+[INFO][22:13:11.282][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:11.292][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(135, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:11.294][Performance] Performance - Game update: 11.00ms
+[INFO][22:13:11.311][Performance] Performance - Frame render: 4.01ms
+[INFO][22:13:11.324][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:11.336][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(135, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:11.338][Performance] Performance - Game update: 13.97ms
+[INFO][22:13:11.353][Performance] Performance - Frame render: 2.51ms
+[INFO][22:13:11.367][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:11.380][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(135, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:11.382][Performance] Performance - Game update: 15.26ms
+[INFO][22:13:11.397][Performance] Performance - Frame render: 5.01ms
+[INFO][22:13:11.409][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:11.422][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(135, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:11.423][Performance] Performance - Game update: 14.01ms
+[INFO][22:13:11.437][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:11.449][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:11.462][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(135, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:11.463][Performance] Performance - Game update: 13.79ms
+[INFO][22:13:11.479][Performance] Performance - Frame render: 4.99ms
+[INFO][22:13:11.491][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:11.504][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(135, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:11.505][Performance] Performance - Game update: 14.18ms
+[INFO][22:13:11.521][Performance] Performance - Frame render: 2.99ms
+[INFO][22:13:11.534][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:11.544][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(135, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:11.547][Performance] Performance - Game update: 13.62ms
+[INFO][22:13:11.561][Performance] Performance - Frame render: 3.91ms
+[INFO][22:13:11.573][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:11.585][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(135, 105), vel=(0.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:11.586][Performance] Performance - Game update: 12.99ms
+[INFO][22:13:11.602][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:11.616][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:11.629][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(135, 105), vel=(0.10, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:11.631][Performance] Performance - Game update: 14.63ms
+[INFO][22:13:11.648][Performance] Performance - Frame render: 4.01ms
+[INFO][22:13:11.661][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:11.672][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(135, 105), vel=(0.20, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:11.673][Performance] Performance - Game update: 11.99ms
+[INFO][22:13:11.690][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:11.702][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:11.715][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(135, 105), vel=(0.30, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:11.716][Performance] Performance - Game update: 14.08ms
+[INFO][22:13:11.732][Performance] Performance - Frame render: 3.07ms
+[INFO][22:13:11.744][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:11.758][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(135, 105), vel=(0.40, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:11.760][Performance] Performance - Game update: 15.51ms
+[INFO][22:13:11.778][Performance] Performance - Frame render: 4.09ms
+[INFO][22:13:11.791][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:11.804][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(136, 105), vel=(0.50, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:11.805][Performance] Performance - Game update: 14.17ms
+[INFO][22:13:11.824][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:11.840][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:11.852][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(137, 105), vel=(0.60, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:11.853][Performance] Performance - Game update: 12.90ms
+[INFO][22:13:11.868][Performance] Performance - Frame render: 3.14ms
+[INFO][22:13:11.882][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:11.901][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(138, 105), vel=(0.70, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:11.902][Performance] Performance - Game update: 20.43ms
+[INFO][22:13:11.919][Performance] Performance - Frame render: 3.09ms
+[INFO][22:13:11.934][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:11.947][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(139, 105), vel=(0.80, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:11.949][Performance] Performance - Game update: 15.08ms
+[INFO][22:13:11.964][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:11.978][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:11.990][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(140, 105), vel=(0.90, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:11.991][Performance] Performance - Game update: 12.90ms
+[INFO][22:13:12.007][Performance] Performance - Frame render: 3.09ms
+[INFO][22:13:12.021][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:12.036][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(141, 105), vel=(1.00, 0.80), on_ground=True, in_ladder=False, health=100
+[INFO][22:13:12.038][Performance] Performance - Game update: 16.91ms
+[INFO][22:13:12.055][Performance] Performance - Frame render: 3.52ms
+[INFO][22:13:12.071][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:12.084][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(142, 92), vel=(1.10, -12.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:12.085][Performance] Performance - Game update: 14.16ms
+[INFO][22:13:12.101][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:12.116][Performance] Performance - Player update: 1.00ms
+[TRACE][22:13:12.128][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(143, 81), vel=(1.20, -11.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:12.129][Performance] Performance - Game update: 14.03ms
+[INFO][22:13:12.148][Performance] Performance - Frame render: 7.27ms
+[INFO][22:13:12.163][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:12.187][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(144, 70), vel=(1.30, -10.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:12.188][Performance] Performance - Game update: 25.40ms
+[INFO][22:13:12.204][Performance] Performance - Frame render: 3.98ms
+[INFO][22:13:12.218][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:12.231][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(145, 60), vel=(1.40, -9.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:12.232][Performance] Performance - Game update: 14.29ms
+[INFO][22:13:12.249][Performance] Performance - Frame render: 4.02ms
+[INFO][22:13:12.263][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:12.277][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(147, 51), vel=(1.50, -9.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:12.279][Performance] Performance - Game update: 16.00ms
+[INFO][22:13:12.299][Performance] Performance - Frame render: 6.07ms
+[INFO][22:13:12.313][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:12.325][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(149, 43), vel=(1.60, -8.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:12.327][Performance] Performance - Game update: 13.29ms
+[INFO][22:13:12.350][Performance] Performance - Frame render: 5.78ms
+[INFO][22:13:12.365][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:12.378][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(151, 36), vel=(1.70, -7.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:12.381][Performance] Performance - Game update: 15.22ms
+[INFO][22:13:12.399][Performance] Performance - Frame render: 3.98ms
+[INFO][22:13:12.411][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:12.423][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(153, 29), vel=(1.80, -6.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:12.424][Performance] Performance - Game update: 12.99ms
+[INFO][22:13:12.441][Performance] Performance - Frame render: 3.75ms
+[INFO][22:13:12.457][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:12.470][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(155, 23), vel=(1.90, -5.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:12.471][Performance] Performance - Game update: 14.00ms
+[INFO][22:13:12.486][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:12.498][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:12.512][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(157, 18), vel=(2.00, -5.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:12.514][Performance] Performance - Game update: 16.00ms
+[INFO][22:13:12.531][Performance] Performance - Frame render: 5.05ms
+[INFO][22:13:12.544][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:12.556][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(159, 14), vel=(2.10, -4.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:12.557][Performance] Performance - Game update: 13.18ms
+[INFO][22:13:12.573][Performance] Performance - Frame render: 3.00ms
+[INFO][22:13:12.587][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:12.600][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(161, 11), vel=(2.20, -3.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:12.601][Performance] Performance - Game update: 13.97ms
+[INFO][22:13:12.620][Performance] Performance - Frame render: 3.50ms
+[INFO][22:13:12.634][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:12.651][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(163, 8), vel=(2.30, -2.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:12.652][Performance] Performance - Game update: 18.04ms
+[INFO][22:13:12.675][Performance] Performance - Frame render: 4.18ms
+[INFO][22:13:12.691][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:12.711][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(165, 6), vel=(2.40, -1.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:12.714][Performance] Performance - Game update: 24.28ms
+[INFO][22:13:12.738][Performance] Performance - Frame render: 4.51ms
+[INFO][22:13:12.758][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:12.780][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(168, 5), vel=(2.50, -1.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:12.782][Performance] Performance - Game update: 23.60ms
+[INFO][22:13:12.798][Performance] Performance - Frame render: 5.00ms
+[INFO][22:13:12.822][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:12.838][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(171, 5), vel=(2.60, -0.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:12.840][Performance] Performance - Game update: 17.36ms
+[INFO][22:13:12.855][Performance] Performance - Frame render: 3.53ms
+[INFO][22:13:12.870][Performance] Performance - Player update: 1.00ms
+[TRACE][22:13:12.885][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(174, 6), vel=(2.70, 0.60), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:12.886][Performance] Performance - Game update: 16.15ms
+[INFO][22:13:12.907][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:12.921][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:12.933][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(177, 7), vel=(2.80, 1.40), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:12.935][Performance] Performance - Game update: 14.00ms
+[INFO][22:13:12.951][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:12.966][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:12.980][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(180, 9), vel=(2.90, 2.20), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:12.981][Performance] Performance - Game update: 14.94ms
+[INFO][22:13:12.997][Performance] Performance - Frame render: 4.00ms
+[INFO][22:13:13.011][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:13.023][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(183, 12), vel=(3.00, 3.00), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:13.024][Performance] Performance - Game update: 12.99ms
+[INFO][22:13:13.041][Performance] Performance - Frame render: 4.19ms
+[INFO][22:13:13.057][Performance] Performance - Player update: 0.00ms
+[TRACE][22:13:13.079][c:\Users\Jakub\Documents\Schule\Informatik\pygame\player.py:214] Player State: pos=(186, 16), vel=(3.10, 3.80), on_ground=False, in_ladder=False, health=100
+[INFO][22:13:13.080][Performance] Performance - Game update: 23.06ms
+[INFO][22:13:13.098][Performance] Performance - Frame render: 5.66ms

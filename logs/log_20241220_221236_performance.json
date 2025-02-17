@@ -1,0 +1,4946 @@
+{
+  "Level load": [
+    {
+      "timestamp": "22:12:45.230799",
+      "duration": 11.902809143066406
+    }
+  ],
+  "Player update": [
+    {
+      "timestamp": "22:12:58.774074",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:58.799079",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:58.815073",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:58.831611",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:58.848300",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:58.866303",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:58.882303",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:58.898814",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:58.913833",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:58.932534",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:58.948577",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:58.964576",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:58.980101",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:58.997353",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.019355",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.040568",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.057708",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.074713",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.090717",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.107494",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.124499",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.142056",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.158751",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.176612",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.192724",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.209678",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.226396",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.243308",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.260856",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.277540",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.294006",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.310279",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.327878",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.343684",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.358980",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.376390",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.393156",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.409488",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.427063",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.442574",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.459336",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.476335",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.493336",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.510283",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.527315",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.544042",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.559045",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.575757",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.591922",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.607942",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.623937",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.640830",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.656145",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.673528",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.690508",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.707022",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.722197",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.738197",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.754704",
+      "duration": 1.0030269622802734
+    },
+    {
+      "timestamp": "22:12:59.770887",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.788859",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.805854",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.823927",
+      "duration": 1.0030269622802734
+    },
+    {
+      "timestamp": "22:12:59.839107",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.855415",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.879870",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.897343",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.914758",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.935027",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.951072",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.967071",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:12:59.983511",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.001624",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.023249",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.041245",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.057556",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.073565",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.091678",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.108178",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.128194",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.147969",
+      "duration": 1.4643669128417969
+    },
+    {
+      "timestamp": "22:13:00.166980",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.185449",
+      "duration": 1.2824535369873047
+    },
+    {
+      "timestamp": "22:13:00.206915",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.225767",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.244178",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.263569",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.283906",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.302908",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.322925",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.347746",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.368747",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.399748",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.417748",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.437058",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.454950",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.472970",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.491198",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.508199",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.526661",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.545443",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.564926",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.584270",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.605709",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.625721",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.646938",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.668497",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.687505",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.706470",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.726293",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.745824",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.767069",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.790393",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.809383",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.829390",
+      "duration": 1.0030269622802734
+    },
+    {
+      "timestamp": "22:13:00.850912",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.872113",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.901115",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.920113",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.941039",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.964904",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:00.987725",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:01.010720",
+      "duration": 0.9806156158447266
+    },
+    {
+      "timestamp": "22:13:01.031153",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:01.055668",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:01.076666",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:01.098413",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:01.119928",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:01.141969",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:01.166997",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:01.189016",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:01.211230",
+      "duration": 1.0023117065429688
+    },
+    {
+      "timestamp": "22:13:01.233744",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:01.256268",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:01.281263",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:01.305451",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:01.326625",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:01.351645",
+      "duration": 1.0154247283935547
+    },
+    {
+      "timestamp": "22:13:01.373643",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:01.397388",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:01.425360",
+      "duration": 0.9934902191162109
+    },
+    {
+      "timestamp": "22:13:01.450920",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:01.473919",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:01.498324",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:01.523549",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:01.550265",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:01.574249",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:01.596468",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:01.623931",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:01.652693",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:01.689713",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:01.715761",
+      "duration": 1.0614395141601562
+    },
+    {
+      "timestamp": "22:13:01.741144",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:01.768202",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:01.791242",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:01.820153",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:01.845207",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:01.881303",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:01.926859",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:01.962375",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:01.989645",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:02.023201",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:02.052241",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:02.085667",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:02.112430",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:02.140951",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:02.176789",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:02.202070",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:02.227236",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:02.250949",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:02.274887",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:02.302579",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:02.325582",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:02.351123",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:02.376123",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:02.405477",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:02.431936",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:02.460028",
+      "duration": 1.0030269622802734
+    },
+    {
+      "timestamp": "22:13:02.490537",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:02.529631",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:02.569154",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:02.603626",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:02.640409",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:02.677439",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:02.707467",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:02.735746",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:02.761104",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:02.789339",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:02.816859",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:02.843439",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:02.870544",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:02.902540",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:02.926595",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:02.953528",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:02.980160",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:03.012153",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:03.041797",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:03.069338",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:03.095324",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:03.129252",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:03.158829",
+      "duration": 0.507354736328125
+    },
+    {
+      "timestamp": "22:13:03.199817",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:03.225573",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:03.255949",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:03.284419",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:03.311727",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:03.340088",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:03.369211",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:03.400550",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:03.427556",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:03.457339",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:03.489155",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:03.520217",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:03.550777",
+      "duration": 0.9951591491699219
+    },
+    {
+      "timestamp": "22:13:03.579780",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:03.607455",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:03.637815",
+      "duration": 1.0008811950683594
+    },
+    {
+      "timestamp": "22:13:03.669905",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:03.698535",
+      "duration": 1.0190010070800781
+    },
+    {
+      "timestamp": "22:13:03.727570",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:03.758581",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:03.787103",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:03.816863",
+      "duration": 0.6117820739746094
+    },
+    {
+      "timestamp": "22:13:03.845943",
+      "duration": 0.5085468292236328
+    },
+    {
+      "timestamp": "22:13:03.877036",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:03.916767",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:03.945923",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:03.976692",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:04.008039",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:04.038873",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:04.071147",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:04.103021",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:04.134528",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:04.167858",
+      "duration": 0.6899833679199219
+    },
+    {
+      "timestamp": "22:13:04.209381",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:04.240948",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:04.273394",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:04.305029",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:04.336888",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:04.368936",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:04.409922",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:04.439439",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:04.475214",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:04.509821",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:04.544162",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:04.577483",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:04.610524",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:04.645812",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:04.687242",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:04.719907",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:04.753546",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:04.786005",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:04.820159",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:04.852192",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:04.891974",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:04.933704",
+      "duration": 0.9975433349609375
+    },
+    {
+      "timestamp": "22:13:04.966798",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:05.002369",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:05.034804",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:05.066852",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:05.099721",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:05.130626",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:05.173855",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:05.207357",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:05.243052",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:05.277446",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:05.311952",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:05.345003",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:05.379910",
+      "duration": 1.3589859008789062
+    },
+    {
+      "timestamp": "22:13:05.415382",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:05.452149",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:05.486307",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:06.438785",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:06.472925",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:06.507058",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:06.542800",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:06.575790",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:06.609957",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:06.642677",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:06.677187",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:06.717515",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:06.753951",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:06.793426",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:06.826430",
+      "duration": 1.0020732879638672
+    },
+    {
+      "timestamp": "22:13:06.863010",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:06.896009",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:06.935013",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:06.973918",
+      "duration": 1.2865066528320312
+    },
+    {
+      "timestamp": "22:13:07.008478",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:07.046171",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:07.090071",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:07.128108",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:07.171514",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:07.209677",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:07.245864",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:07.281132",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:07.325237",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:07.364790",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:07.400261",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:07.444297",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:07.482503",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:07.518475",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:07.556554",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:07.592652",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:07.633361",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:07.671631",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:07.713020",
+      "duration": 0.9980201721191406
+    },
+    {
+      "timestamp": "22:13:07.753501",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:07.798951",
+      "duration": 0.9863376617431641
+    },
+    {
+      "timestamp": "22:13:07.842135",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:07.878436",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:07.926577",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:07.984655",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:08.040573",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:08.098229",
+      "duration": 0.5090236663818359
+    },
+    {
+      "timestamp": "22:13:08.135422",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:08.172393",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:08.210393",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:08.249550",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:08.290834",
+      "duration": 1.0001659393310547
+    },
+    {
+      "timestamp": "22:13:08.330782",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:08.371810",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:08.409441",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:08.451909",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:08.491940",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:08.527794",
+      "duration": 1.0006427764892578
+    },
+    {
+      "timestamp": "22:13:08.571726",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:08.609980",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:08.651465",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:08.690452",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:08.728622",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:08.770464",
+      "duration": 0.9989738464355469
+    },
+    {
+      "timestamp": "22:13:08.808784",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:08.857844",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:08.902581",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:08.945985",
+      "duration": 0.9949207305908203
+    },
+    {
+      "timestamp": "22:13:08.989209",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:09.031671",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:09.081313",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:09.123481",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:09.164901",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:09.203898",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:09.248041",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:09.292782",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:09.343057",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:09.384559",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:09.427830",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:09.473745",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:09.513637",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:09.565928",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:09.606819",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:09.646337",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:09.687474",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:09.730224",
+      "duration": 1.0063648223876953
+    },
+    {
+      "timestamp": "22:13:09.768284",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:09.812445",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:09.861918",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:09.907275",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:09.949643",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:09.999119",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:10.046141",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:10.096641",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:10.137913",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:10.176273",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:10.220063",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:10.263694",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:10.305924",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:10.361969",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:10.406139",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:10.447887",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:10.491482",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:10.534000",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:11.282182",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:11.324237",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:11.367422",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:11.409681",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:11.449616",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:11.491452",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:11.534042",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:11.573788",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:11.616839",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:11.661574",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:11.702259",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:11.744717",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:11.791454",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:11.840780",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:11.882107",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:11.934323",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:11.978178",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:12.021974",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:12.071488",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:12.116852",
+      "duration": 1.0035037994384766
+    },
+    {
+      "timestamp": "22:13:12.162780",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:12.218613",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:12.263451",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:12.313949",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:12.365923",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:12.411727",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:12.457953",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:12.498122",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:12.544104",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:12.587315",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:12.634861",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:12.691000",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:12.758768",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:12.822885",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:12.870973",
+      "duration": 1.0004043579101562
+    },
+    {
+      "timestamp": "22:13:12.921529",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:12.966101",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:13.011461",
+      "duration": 0.0
+    },
+    {
+      "timestamp": "22:13:13.057537",
+      "duration": 0.0
+    }
+  ],
+  "Game update": [
+    {
+      "timestamp": "22:12:58.779080",
+      "duration": 5.006074905395508
+    },
+    {
+      "timestamp": "22:12:58.803078",
+      "duration": 4.996538162231445
+    },
+    {
+      "timestamp": "22:12:58.819155",
+      "duration": 4.082679748535156
+    },
+    {
+      "timestamp": "22:12:58.836117",
+      "duration": 4.506349563598633
+    },
+    {
+      "timestamp": "22:12:58.852301",
+      "duration": 4.001379013061523
+    },
+    {
+      "timestamp": "22:12:58.869298",
+      "duration": 3.990650177001953
+    },
+    {
+      "timestamp": "22:12:58.886304",
+      "duration": 4.000663757324219
+    },
+    {
+      "timestamp": "22:12:58.903829",
+      "duration": 5.015373229980469
+    },
+    {
+      "timestamp": "22:12:58.918824",
+      "duration": 4.991054534912109
+    },
+    {
+      "timestamp": "22:12:58.937053",
+      "duration": 4.518985748291016
+    },
+    {
+      "timestamp": "22:12:58.953584",
+      "duration": 5.006551742553711
+    },
+    {
+      "timestamp": "22:12:58.968577",
+      "duration": 4.001379013061523
+    },
+    {
+      "timestamp": "22:12:58.984357",
+      "duration": 4.256248474121094
+    },
+    {
+      "timestamp": "22:12:59.002354",
+      "duration": 5.00035285949707
+    },
+    {
+      "timestamp": "22:12:59.025091",
+      "duration": 5.736351013183594
+    },
+    {
+      "timestamp": "22:12:59.044578",
+      "duration": 4.010200500488281
+    },
+    {
+      "timestamp": "22:12:59.060690",
+      "duration": 2.9816627502441406
+    },
+    {
+      "timestamp": "22:12:59.077714",
+      "duration": 3.0014514923095703
+    },
+    {
+      "timestamp": "22:12:59.092715",
+      "duration": 1.9989013671875
+    },
+    {
+      "timestamp": "22:12:59.110763",
+      "duration": 3.2682418823242188
+    },
+    {
+      "timestamp": "22:12:59.126510",
+      "duration": 2.010822296142578
+    },
+    {
+      "timestamp": "22:12:59.144052",
+      "duration": 1.9962787628173828
+    },
+    {
+      "timestamp": "22:12:59.160756",
+      "duration": 2.004861831665039
+    },
+    {
+      "timestamp": "22:12:59.179003",
+      "duration": 2.390623092651367
+    },
+    {
+      "timestamp": "22:12:59.194711",
+      "duration": 1.987457275390625
+    },
+    {
+      "timestamp": "22:12:59.212658",
+      "duration": 2.980470657348633
+    },
+    {
+      "timestamp": "22:12:59.229411",
+      "duration": 3.0155181884765625
+    },
+    {
+      "timestamp": "22:12:59.246302",
+      "duration": 2.994060516357422
+    },
+    {
+      "timestamp": "22:12:59.263835",
+      "duration": 2.9785633087158203
+    },
+    {
+      "timestamp": "22:12:59.280538",
+      "duration": 2.99835205078125
+    },
+    {
+      "timestamp": "22:12:59.297002",
+      "duration": 2.9969215393066406
+    },
+    {
+      "timestamp": "22:12:59.312296",
+      "duration": 2.016305923461914
+    },
+    {
+      "timestamp": "22:12:59.332589",
+      "duration": 4.711627960205078
+    },
+    {
+      "timestamp": "22:12:59.347960",
+      "duration": 4.276275634765625
+    },
+    {
+      "timestamp": "22:12:59.361975",
+      "duration": 2.9947757720947266
+    },
+    {
+      "timestamp": "22:12:59.379686",
+      "duration": 3.2961368560791016
+    },
+    {
+      "timestamp": "22:12:59.396147",
+      "duration": 2.99072265625
+    },
+    {
+      "timestamp": "22:12:59.412554",
+      "duration": 3.0660629272460938
+    },
+    {
+      "timestamp": "22:12:59.430045",
+      "duration": 2.981901168823242
+    },
+    {
+      "timestamp": "22:12:59.445135",
+      "duration": 2.561807632446289
+    },
+    {
+      "timestamp": "22:12:59.462320",
+      "duration": 2.9845237731933594
+    },
+    {
+      "timestamp": "22:12:59.479324",
+      "duration": 2.9892921447753906
+    },
+    {
+      "timestamp": "22:12:59.496320",
+      "duration": 2.983570098876953
+    },
+    {
+      "timestamp": "22:12:59.514302",
+      "duration": 4.019260406494141
+    },
+    {
+      "timestamp": "22:12:59.530304",
+      "duration": 2.9892921447753906
+    },
+    {
+      "timestamp": "22:12:59.548050",
+      "duration": 4.00853157043457
+    },
+    {
+      "timestamp": "22:12:59.562044",
+      "duration": 2.9985904693603516
+    },
+    {
+      "timestamp": "22:12:59.578740",
+      "duration": 2.98309326171875
+    },
+    {
+      "timestamp": "22:12:59.594925",
+      "duration": 3.0035972595214844
+    },
+    {
+      "timestamp": "22:12:59.610922",
+      "duration": 2.980470657348633
+    },
+    {
+      "timestamp": "22:12:59.627497",
+      "duration": 3.5593509674072266
+    },
+    {
+      "timestamp": "22:12:59.645145",
+      "duration": 4.31513786315918
+    },
+    {
+      "timestamp": "22:12:59.660505",
+      "duration": 4.360437393188477
+    },
+    {
+      "timestamp": "22:12:59.676505",
+      "duration": 2.9773712158203125
+    },
+    {
+      "timestamp": "22:12:59.694510",
+      "duration": 4.002094268798828
+    },
+    {
+      "timestamp": "22:12:59.709593",
+      "duration": 2.570629119873047
+    },
+    {
+      "timestamp": "22:12:59.726198",
+      "duration": 4.001617431640625
+    },
+    {
+      "timestamp": "22:12:59.741704",
+      "duration": 3.5071372985839844
+    },
+    {
+      "timestamp": "22:12:59.757702",
+      "duration": 4.000663757324219
+    },
+    {
+      "timestamp": "22:12:59.775177",
+      "duration": 4.29081916809082
+    },
+    {
+      "timestamp": "22:12:59.792853",
+      "duration": 3.9942264556884766
+    },
+    {
+      "timestamp": "22:12:59.810853",
+      "duration": 4.998683929443359
+    },
+    {
+      "timestamp": "22:12:59.827929",
+      "duration": 5.005359649658203
+    },
+    {
+      "timestamp": "22:12:59.843412",
+      "duration": 4.305124282836914
+    },
+    {
+      "timestamp": "22:12:59.858408",
+      "duration": 2.9921531677246094
+    },
+    {
+      "timestamp": "22:12:59.886339",
+      "duration": 6.469249725341797
+    },
+    {
+      "timestamp": "22:12:59.903340",
+      "duration": 5.997180938720703
+    },
+    {
+      "timestamp": "22:12:59.920755",
+      "duration": 5.9967041015625
+    },
+    {
+      "timestamp": "22:12:59.939025",
+      "duration": 3.997802734375
+    },
+    {
+      "timestamp": "22:12:59.955068",
+      "duration": 3.995656967163086
+    },
+    {
+      "timestamp": "22:12:59.971067",
+      "duration": 3.996133804321289
+    },
+    {
+      "timestamp": "22:12:59.988175",
+      "duration": 4.664421081542969
+    },
+    {
+      "timestamp": "22:13:00.008142",
+      "duration": 6.517887115478516
+    },
+    {
+      "timestamp": "22:13:00.028253",
+      "duration": 5.004405975341797
+    },
+    {
+      "timestamp": "22:13:00.045243",
+      "duration": 3.9985179901123047
+    },
+    {
+      "timestamp": "22:13:00.061556",
+      "duration": 4.000663757324219
+    },
+    {
+      "timestamp": "22:13:00.077560",
+      "duration": 3.993988037109375
+    },
+    {
+      "timestamp": "22:13:00.094676",
+      "duration": 2.9981136322021484
+    },
+    {
+      "timestamp": "22:13:00.112170",
+      "duration": 3.9916038513183594
+    },
+    {
+      "timestamp": "22:13:00.135760",
+      "duration": 7.565975189208984
+    },
+    {
+      "timestamp": "22:13:00.152982",
+      "duration": 6.477117538452148
+    },
+    {
+      "timestamp": "22:13:00.171982",
+      "duration": 5.001544952392578
+    },
+    {
+      "timestamp": "22:13:00.189455",
+      "duration": 5.288600921630859
+    },
+    {
+      "timestamp": "22:13:00.211835",
+      "duration": 4.919290542602539
+    },
+    {
+      "timestamp": "22:13:00.230757",
+      "duration": 4.990100860595703
+    },
+    {
+      "timestamp": "22:13:00.251569",
+      "duration": 7.391452789306641
+    },
+    {
+      "timestamp": "22:13:00.270909",
+      "duration": 7.340431213378906
+    },
+    {
+      "timestamp": "22:13:00.288906",
+      "duration": 4.999876022338867
+    },
+    {
+      "timestamp": "22:13:00.306907",
+      "duration": 4.996061325073242
+    },
+    {
+      "timestamp": "22:13:00.327127",
+      "duration": 4.201173782348633
+    },
+    {
+      "timestamp": "22:13:00.354747",
+      "duration": 7.001638412475586
+    },
+    {
+      "timestamp": "22:13:00.387747",
+      "duration": 19.00029182434082
+    },
+    {
+      "timestamp": "22:13:00.404748",
+      "duration": 5.000114440917969
+    },
+    {
+      "timestamp": "22:13:00.421760",
+      "duration": 4.012584686279297
+    },
+    {
+      "timestamp": "22:13:00.441696",
+      "duration": 4.637002944946289
+    },
+    {
+      "timestamp": "22:13:00.459950",
+      "duration": 4.999399185180664
+    },
+    {
+      "timestamp": "22:13:00.476948",
+      "duration": 3.978252410888672
+    },
+    {
+      "timestamp": "22:13:00.495201",
+      "duration": 4.003286361694336
+    },
+    {
+      "timestamp": "22:13:00.513198",
+      "duration": 4.9991607666015625
+    },
+    {
+      "timestamp": "22:13:00.533663",
+      "duration": 7.0018768310546875
+    },
+    {
+      "timestamp": "22:13:00.552918",
+      "duration": 7.475614547729492
+    },
+    {
+      "timestamp": "22:13:00.570918",
+      "duration": 5.991697311401367
+    },
+    {
+      "timestamp": "22:13:00.590270",
+      "duration": 6.000280380249023
+    },
+    {
+      "timestamp": "22:13:00.610708",
+      "duration": 4.998922348022461
+    },
+    {
+      "timestamp": "22:13:00.631832",
+      "duration": 6.110906600952148
+    },
+    {
+      "timestamp": "22:13:00.654495",
+      "duration": 7.557392120361328
+    },
+    {
+      "timestamp": "22:13:00.673493",
+      "duration": 4.996776580810547
+    },
+    {
+      "timestamp": "22:13:00.691409",
+      "duration": 3.9038658142089844
+    },
+    {
+      "timestamp": "22:13:00.711543",
+      "duration": 5.073308944702148
+    },
+    {
+      "timestamp": "22:13:00.733296",
+      "duration": 7.002830505371094
+    },
+    {
+      "timestamp": "22:13:00.752817",
+      "duration": 6.992816925048828
+    },
+    {
+      "timestamp": "22:13:00.773068",
+      "duration": 5.99980354309082
+    },
+    {
+      "timestamp": "22:13:00.795384",
+      "duration": 4.991769790649414
+    },
+    {
+      "timestamp": "22:13:00.817387",
+      "duration": 8.003473281860352
+    },
+    {
+      "timestamp": "22:13:00.837222",
+      "duration": 8.835077285766602
+    },
+    {
+      "timestamp": "22:13:00.855909",
+      "duration": 4.997014999389648
+    },
+    {
+      "timestamp": "22:13:00.886113",
+      "duration": 13.99993896484375
+    },
+    {
+      "timestamp": "22:13:00.906111",
+      "duration": 4.996776580810547
+    },
+    {
+      "timestamp": "22:13:00.926115",
+      "duration": 6.0024261474609375
+    },
+    {
+      "timestamp": "22:13:00.949412",
+      "duration": 8.373260498046875
+    },
+    {
+      "timestamp": "22:13:00.971707",
+      "duration": 6.8035125732421875
+    },
+    {
+      "timestamp": "22:13:00.993724",
+      "duration": 5.999326705932617
+    },
+    {
+      "timestamp": "22:13:01.017724",
+      "duration": 7.984161376953125
+    },
+    {
+      "timestamp": "22:13:01.040149",
+      "duration": 8.995771408081055
+    },
+    {
+      "timestamp": "22:13:01.060666",
+      "duration": 4.997968673706055
+    },
+    {
+      "timestamp": "22:13:01.084672",
+      "duration": 8.006095886230469
+    },
+    {
+      "timestamp": "22:13:01.104930",
+      "duration": 6.517171859741211
+    },
+    {
+      "timestamp": "22:13:01.124932",
+      "duration": 5.004405975341797
+    },
+    {
+      "timestamp": "22:13:01.150828",
+      "duration": 8.858680725097656
+    },
+    {
+      "timestamp": "22:13:01.173020",
+      "duration": 6.023168563842773
+    },
+    {
+      "timestamp": "22:13:01.196223",
+      "duration": 7.206916809082031
+    },
+    {
+      "timestamp": "22:13:01.219733",
+      "duration": 9.505033493041992
+    },
+    {
+      "timestamp": "22:13:01.238756",
+      "duration": 5.012273788452148
+    },
+    {
+      "timestamp": "22:13:01.267260",
+      "duration": 10.992050170898438
+    },
+    {
+      "timestamp": "22:13:01.288255",
+      "duration": 6.992578506469727
+    },
+    {
+      "timestamp": "22:13:01.310456",
+      "duration": 5.004405975341797
+    },
+    {
+      "timestamp": "22:13:01.334636",
+      "duration": 8.010387420654297
+    },
+    {
+      "timestamp": "22:13:01.356655",
+      "duration": 6.025552749633789
+    },
+    {
+      "timestamp": "22:13:01.381644",
+      "duration": 7.018804550170898
+    },
+    {
+      "timestamp": "22:13:01.406384",
+      "duration": 8.996248245239258
+    },
+    {
+      "timestamp": "22:13:01.433426",
+      "duration": 9.058952331542969
+    },
+    {
+      "timestamp": "22:13:01.456920",
+      "duration": 6.000280380249023
+    },
+    {
+      "timestamp": "22:13:01.479921",
+      "duration": 6.0024261474609375
+    },
+    {
+      "timestamp": "22:13:01.507323",
+      "duration": 8.998394012451172
+    },
+    {
+      "timestamp": "22:13:01.531530",
+      "duration": 7.981300354003906
+    },
+    {
+      "timestamp": "22:13:01.556251",
+      "duration": 5.985736846923828
+    },
+    {
+      "timestamp": "22:13:01.580454",
+      "duration": 7.199287414550781
+    },
+    {
+      "timestamp": "22:13:01.605461",
+      "duration": 8.992910385131836
+    },
+    {
+      "timestamp": "22:13:01.631946",
+      "duration": 8.014917373657227
+    },
+    {
+      "timestamp": "22:13:01.672710",
+      "duration": 20.01667022705078
+    },
+    {
+      "timestamp": "22:13:01.696731",
+      "duration": 6.008148193359375
+    },
+    {
+      "timestamp": "22:13:01.723439",
+      "duration": 8.738994598388672
+    },
+    {
+      "timestamp": "22:13:01.749839",
+      "duration": 8.695602416992188
+    },
+    {
+      "timestamp": "22:13:01.774200",
+      "duration": 5.997657775878906
+    },
+    {
+      "timestamp": "22:13:01.801228",
+      "duration": 9.985208511352539
+    },
+    {
+      "timestamp": "22:13:01.827253",
+      "duration": 7.100582122802734
+    },
+    {
+      "timestamp": "22:13:01.856215",
+      "duration": 11.00778579711914
+    },
+    {
+      "timestamp": "22:13:01.893560",
+      "duration": 12.257099151611328
+    },
+    {
+      "timestamp": "22:13:01.938797",
+      "duration": 11.93857192993164
+    },
+    {
+      "timestamp": "22:13:01.971646",
+      "duration": 9.27114486694336
+    },
+    {
+      "timestamp": "22:13:02.001202",
+      "duration": 11.55710220336914
+    },
+    {
+      "timestamp": "22:13:02.034407",
+      "duration": 11.206865310668945
+    },
+    {
+      "timestamp": "22:13:02.059242",
+      "duration": 8.000850677490234
+    },
+    {
+      "timestamp": "22:13:02.092678",
+      "duration": 7.010459899902344
+    },
+    {
+      "timestamp": "22:13:02.121421",
+      "duration": 8.991241455078125
+    },
+    {
+      "timestamp": "22:13:02.152482",
+      "duration": 11.530876159667969
+    },
+    {
+      "timestamp": "22:13:02.185790",
+      "duration": 9.001731872558594
+    },
+    {
+      "timestamp": "22:13:02.209075",
+      "duration": 7.005453109741211
+    },
+    {
+      "timestamp": "22:13:02.235244",
+      "duration": 8.008480072021484
+    },
+    {
+      "timestamp": "22:13:02.256961",
+      "duration": 6.011962890625
+    },
+    {
+      "timestamp": "22:13:02.285248",
+      "duration": 10.361671447753906
+    },
+    {
+      "timestamp": "22:13:02.308578",
+      "duration": 5.9986114501953125
+    },
+    {
+      "timestamp": "22:13:02.334617",
+      "duration": 9.035110473632812
+    },
+    {
+      "timestamp": "22:13:02.357123",
+      "duration": 5.99980354309082
+    },
+    {
+      "timestamp": "22:13:02.386232",
+      "duration": 10.10894775390625
+    },
+    {
+      "timestamp": "22:13:02.413483",
+      "duration": 8.005857467651367
+    },
+    {
+      "timestamp": "22:13:02.440504",
+      "duration": 8.568048477172852
+    },
+    {
+      "timestamp": "22:13:02.468032",
+      "duration": 9.006738662719727
+    },
+    {
+      "timestamp": "22:13:02.501614",
+      "duration": 11.076211929321289
+    },
+    {
+      "timestamp": "22:13:02.542632",
+      "duration": 13.00191879272461
+    },
+    {
+      "timestamp": "22:13:02.582256",
+      "duration": 13.101816177368164
+    },
+    {
+      "timestamp": "22:13:02.619764",
+      "duration": 15.572547912597656
+    },
+    {
+      "timestamp": "22:13:02.650278",
+      "duration": 9.869813919067383
+    },
+    {
+      "timestamp": "22:13:02.688441",
+      "duration": 11.002063751220703
+    },
+    {
+      "timestamp": "22:13:02.715535",
+      "duration": 8.067607879638672
+    },
+    {
+      "timestamp": "22:13:02.742748",
+      "duration": 7.002353668212891
+    },
+    {
+      "timestamp": "22:13:02.771335",
+      "duration": 10.231256484985352
+    },
+    {
+      "timestamp": "22:13:02.797340",
+      "duration": 8.000850677490234
+    },
+    {
+      "timestamp": "22:13:02.822855",
+      "duration": 5.995988845825195
+    },
+    {
+      "timestamp": "22:13:02.852569",
+      "duration": 9.130001068115234
+    },
+    {
+      "timestamp": "22:13:02.880024",
+      "duration": 9.479999542236328
+    },
+    {
+      "timestamp": "22:13:02.909595",
+      "duration": 7.055044174194336
+    },
+    {
+      "timestamp": "22:13:02.935602",
+      "duration": 9.006023406982422
+    },
+    {
+      "timestamp": "22:13:02.960151",
+      "duration": 6.623506546020508
+    },
+    {
+      "timestamp": "22:13:02.991153",
+      "duration": 10.993242263793945
+    },
+    {
+      "timestamp": "22:13:03.022152",
+      "duration": 9.998321533203125
+    },
+    {
+      "timestamp": "22:13:03.051815",
+      "duration": 10.017871856689453
+    },
+    {
+      "timestamp": "22:13:03.076321",
+      "duration": 6.9828033447265625
+    },
+    {
+      "timestamp": "22:13:03.108988",
+      "duration": 13.66424560546875
+    },
+    {
+      "timestamp": "22:13:03.137754",
+      "duration": 8.502006530761719
+    },
+    {
+      "timestamp": "22:13:03.181592",
+      "duration": 23.270130157470703
+    },
+    {
+      "timestamp": "22:13:03.206791",
+      "duration": 6.973505020141602
+    },
+    {
+      "timestamp": "22:13:03.233774",
+      "duration": 8.20159912109375
+    },
+    {
+      "timestamp": "22:13:03.264311",
+      "duration": 8.361577987670898
+    },
+    {
+      "timestamp": "22:13:03.291413",
+      "duration": 6.994962692260742
+    },
+    {
+      "timestamp": "22:13:03.321057",
+      "duration": 9.329795837402344
+    },
+    {
+      "timestamp": "22:13:03.350709",
+      "duration": 10.621309280395508
+    },
+    {
+      "timestamp": "22:13:03.377213",
+      "duration": 8.001565933227539
+    },
+    {
+      "timestamp": "22:13:03.408551",
+      "duration": 8.001327514648438
+    },
+    {
+      "timestamp": "22:13:03.437797",
+      "duration": 10.241270065307617
+    },
+    {
+      "timestamp": "22:13:03.467334",
+      "duration": 9.995222091674805
+    },
+    {
+      "timestamp": "22:13:03.498159",
+      "duration": 9.003639221191406
+    },
+    {
+      "timestamp": "22:13:03.527218",
+      "duration": 7.00068473815918
+    },
+    {
+      "timestamp": "22:13:03.557775",
+      "duration": 7.992744445800781
+    },
+    {
+      "timestamp": "22:13:03.589031",
+      "duration": 9.250402450561523
+    },
+    {
+      "timestamp": "22:13:03.617801",
+      "duration": 10.344982147216797
+    },
+    {
+      "timestamp": "22:13:03.646344",
+      "duration": 9.529829025268555
+    },
+    {
+      "timestamp": "22:13:03.678510",
+      "duration": 8.605003356933594
+    },
+    {
+      "timestamp": "22:13:03.707328",
+      "duration": 9.812116622924805
+    },
+    {
+      "timestamp": "22:13:03.738061",
+      "duration": 10.491132736206055
+    },
+    {
+      "timestamp": "22:13:03.768583",
+      "duration": 10.00213623046875
+    },
+    {
+      "timestamp": "22:13:03.794102",
+      "duration": 6.999015808105469
+    },
+    {
+      "timestamp": "22:13:03.824927",
+      "duration": 8.675575256347656
+    },
+    {
+      "timestamp": "22:13:03.855359",
+      "duration": 9.92441177368164
+    },
+    {
+      "timestamp": "22:13:03.888078",
+      "duration": 11.042118072509766
+    },
+    {
+      "timestamp": "22:13:03.926008",
+      "duration": 9.241104125976562
+    },
+    {
+      "timestamp": "22:13:03.956013",
+      "duration": 10.09058952331543
+    },
+    {
+      "timestamp": "22:13:03.987023",
+      "duration": 10.33163070678711
+    },
+    {
+      "timestamp": "22:13:04.019030",
+      "duration": 10.990619659423828
+    },
+    {
+      "timestamp": "22:13:04.050595",
+      "duration": 11.722087860107422
+    },
+    {
+      "timestamp": "22:13:04.079520",
+      "duration": 9.380578994750977
+    },
+    {
+      "timestamp": "22:13:04.111026",
+      "duration": 8.004426956176758
+    },
+    {
+      "timestamp": "22:13:04.143998",
+      "duration": 9.470224380493164
+    },
+    {
+      "timestamp": "22:13:04.189309",
+      "duration": 22.140026092529297
+    },
+    {
+      "timestamp": "22:13:04.220750",
+      "duration": 11.36922836303711
+    },
+    {
+      "timestamp": "22:13:04.251919",
+      "duration": 10.970115661621094
+    },
+    {
+      "timestamp": "22:13:04.283906",
+      "duration": 10.512113571166992
+    },
+    {
+      "timestamp": "22:13:04.315365",
+      "duration": 10.335206985473633
+    },
+    {
+      "timestamp": "22:13:04.344888",
+      "duration": 8.00013542175293
+    },
+    {
+      "timestamp": "22:13:04.377924",
+      "duration": 8.987188339233398
+    },
+    {
+      "timestamp": "22:13:04.419921",
+      "duration": 9.99903678894043
+    },
+    {
+      "timestamp": "22:13:04.450183",
+      "duration": 10.744333267211914
+    },
+    {
+      "timestamp": "22:13:04.486570",
+      "duration": 11.355876922607422
+    },
+    {
+      "timestamp": "22:13:04.521826",
+      "duration": 12.004852294921875
+    },
+    {
+      "timestamp": "22:13:04.554752",
+      "duration": 10.590314865112305
+    },
+    {
+      "timestamp": "22:13:04.588529",
+      "duration": 11.045694351196289
+    },
+    {
+      "timestamp": "22:13:04.622781",
+      "duration": 12.257099151611328
+    },
+    {
+      "timestamp": "22:13:04.657324",
+      "duration": 12.533426284790039
+    },
+    {
+      "timestamp": "22:13:04.694316",
+      "duration": 7.0743560791015625
+    },
+    {
+      "timestamp": "22:13:04.729988",
+      "duration": 10.08152961730957
+    },
+    {
+      "timestamp": "22:13:04.763550",
+      "duration": 10.004043579101562
+    },
+    {
+      "timestamp": "22:13:04.795009",
+      "duration": 9.004592895507812
+    },
+    {
+      "timestamp": "22:13:04.830608",
+      "duration": 10.44917106628418
+    },
+    {
+      "timestamp": "22:13:04.862186",
+      "duration": 9.993791580200195
+    },
+    {
+      "timestamp": "22:13:04.908856",
+      "duration": 17.88043975830078
+    },
+    {
+      "timestamp": "22:13:04.942132",
+      "duration": 7.992744445800781
+    },
+    {
+      "timestamp": "22:13:04.974800",
+      "duration": 8.002042770385742
+    },
+    {
+      "timestamp": "22:13:05.010794",
+      "duration": 8.424758911132812
+    },
+    {
+      "timestamp": "22:13:05.043809",
+      "duration": 9.005069732666016
+    },
+    {
+      "timestamp": "22:13:05.075721",
+      "duration": 8.869647979736328
+    },
+    {
+      "timestamp": "22:13:05.108725",
+      "duration": 9.003400802612305
+    },
+    {
+      "timestamp": "22:13:05.141634",
+      "duration": 10.478496551513672
+    },
+    {
+      "timestamp": "22:13:05.185356",
+      "duration": 11.501073837280273
+    },
+    {
+      "timestamp": "22:13:05.219965",
+      "duration": 12.607812881469727
+    },
+    {
+      "timestamp": "22:13:05.254445",
+      "duration": 11.393070220947266
+    },
+    {
+      "timestamp": "22:13:05.288446",
+      "duration": 10.999917984008789
+    },
+    {
+      "timestamp": "22:13:05.321967",
+      "duration": 11.04879379272461
+    },
+    {
+      "timestamp": "22:13:05.358547",
+      "duration": 13.54360580444336
+    },
+    {
+      "timestamp": "22:13:05.388920",
+      "duration": 10.369062423706055
+    },
+    {
+      "timestamp": "22:13:05.424330",
+      "duration": 8.948087692260742
+    },
+    {
+      "timestamp": "22:13:05.460262",
+      "duration": 8.113861083984375
+    },
+    {
+      "timestamp": "22:13:05.496528",
+      "duration": 10.220766067504883
+    },
+    {
+      "timestamp": "22:13:06.449871",
+      "duration": 10.024309158325195
+    },
+    {
+      "timestamp": "22:13:06.483871",
+      "duration": 10.946035385131836
+    },
+    {
+      "timestamp": "22:13:06.519054",
+      "duration": 11.996269226074219
+    },
+    {
+      "timestamp": "22:13:06.552316",
+      "duration": 9.516477584838867
+    },
+    {
+      "timestamp": "22:13:06.586790",
+      "duration": 11.00015640258789
+    },
+    {
+      "timestamp": "22:13:06.619938",
+      "duration": 9.98067855834961
+    },
+    {
+      "timestamp": "22:13:06.654182",
+      "duration": 11.504888534545898
+    },
+    {
+      "timestamp": "22:13:06.688180",
+      "duration": 10.993719100952148
+    },
+    {
+      "timestamp": "22:13:06.727022",
+      "duration": 9.506702423095703
+    },
+    {
+      "timestamp": "22:13:06.764950",
+      "duration": 10.999202728271484
+    },
+    {
+      "timestamp": "22:13:06.803428",
+      "duration": 10.987281799316406
+    },
+    {
+      "timestamp": "22:13:06.837447",
+      "duration": 12.019634246826172
+    },
+    {
+      "timestamp": "22:13:06.873010",
+      "duration": 9.999513626098633
+    },
+    {
+      "timestamp": "22:13:06.910009",
+      "duration": 13.99993896484375
+    },
+    {
+      "timestamp": "22:13:06.944013",
+      "duration": 9.000062942504883
+    },
+    {
+      "timestamp": "22:13:06.983925",
+      "duration": 11.293172836303711
+    },
+    {
+      "timestamp": "22:13:07.020447",
+      "duration": 11.969327926635742
+    },
+    {
+      "timestamp": "22:13:07.062341",
+      "duration": 16.170501708984375
+    },
+    {
+      "timestamp": "22:13:07.104100",
+      "duration": 14.029264450073242
+    },
+    {
+      "timestamp": "22:13:07.141113",
+      "duration": 13.005256652832031
+    },
+    {
+      "timestamp": "22:13:07.185222",
+      "duration": 13.707399368286133
+    },
+    {
+      "timestamp": "22:13:07.222743",
+      "duration": 13.066530227661133
+    },
+    {
+      "timestamp": "22:13:07.256414",
+      "duration": 10.550737380981445
+    },
+    {
+      "timestamp": "22:13:07.294018",
+      "duration": 13.888835906982422
+    },
+    {
+      "timestamp": "22:13:07.338268",
+      "duration": 13.031244277954102
+    },
+    {
+      "timestamp": "22:13:07.374785",
+      "duration": 9.995460510253906
+    },
+    {
+      "timestamp": "22:13:07.410696",
+      "duration": 10.434865951538086
+    },
+    {
+      "timestamp": "22:13:07.457290",
+      "duration": 12.994050979614258
+    },
+    {
+      "timestamp": "22:13:07.492830",
+      "duration": 9.001016616821289
+    },
+    {
+      "timestamp": "22:13:07.528476",
+      "duration": 10.001659393310547
+    },
+    {
+      "timestamp": "22:13:07.568642",
+      "duration": 12.087821960449219
+    },
+    {
+      "timestamp": "22:13:07.607321",
+      "duration": 14.668703079223633
+    },
+    {
+      "timestamp": "22:13:07.647351",
+      "duration": 13.990402221679688
+    },
+    {
+      "timestamp": "22:13:07.687180",
+      "duration": 15.549421310424805
+    },
+    {
+      "timestamp": "22:13:07.725679",
+      "duration": 13.656854629516602
+    },
+    {
+      "timestamp": "22:13:07.765509",
+      "duration": 12.008428573608398
+    },
+    {
+      "timestamp": "22:13:07.809854",
+      "duration": 11.889934539794922
+    },
+    {
+      "timestamp": "22:13:07.854058",
+      "duration": 11.922836303710938
+    },
+    {
+      "timestamp": "22:13:07.893439",
+      "duration": 15.003442764282227
+    },
+    {
+      "timestamp": "22:13:07.944038",
+      "duration": 18.457889556884766
+    },
+    {
+      "timestamp": "22:13:08.003531",
+      "duration": 18.876075744628906
+    },
+    {
+      "timestamp": "22:13:08.059457",
+      "duration": 18.884658813476562
+    },
+    {
+      "timestamp": "22:13:08.108237",
+      "duration": 10.517120361328125
+    },
+    {
+      "timestamp": "22:13:08.147452",
+      "duration": 12.029170989990234
+    },
+    {
+      "timestamp": "22:13:08.185393",
+      "duration": 13.000249862670898
+    },
+    {
+      "timestamp": "22:13:08.224473",
+      "duration": 14.080047607421875
+    },
+    {
+      "timestamp": "22:13:08.262146",
+      "duration": 12.595176696777344
+    },
+    {
+      "timestamp": "22:13:08.303837",
+      "duration": 14.002799987792969
+    },
+    {
+      "timestamp": "22:13:08.342106",
+      "duration": 11.323928833007812
+    },
+    {
+      "timestamp": "22:13:08.384130",
+      "duration": 12.319087982177734
+    },
+    {
+      "timestamp": "22:13:08.421436",
+      "duration": 11.994600296020508
+    },
+    {
+      "timestamp": "22:13:08.468062",
+      "duration": 16.153335571289062
+    },
+    {
+      "timestamp": "22:13:08.504046",
+      "duration": 12.106657028198242
+    },
+    {
+      "timestamp": "22:13:08.541248",
+      "duration": 14.454841613769531
+    },
+    {
+      "timestamp": "22:13:08.584724",
+      "duration": 12.997627258300781
+    },
+    {
+      "timestamp": "22:13:08.624980",
+      "duration": 14.999628067016602
+    },
+    {
+      "timestamp": "22:13:08.664450",
+      "duration": 12.985467910766602
+    },
+    {
+      "timestamp": "22:13:08.701454",
+      "duration": 11.0015869140625
+    },
+    {
+      "timestamp": "22:13:08.740383",
+      "duration": 11.761188507080078
+    },
+    {
+      "timestamp": "22:13:08.782465",
+      "duration": 12.999296188354492
+    },
+    {
+      "timestamp": "22:13:08.828270",
+      "duration": 19.4852352142334
+    },
+    {
+      "timestamp": "22:13:08.871502",
+      "duration": 13.657808303833008
+    },
+    {
+      "timestamp": "22:13:08.914577",
+      "duration": 11.996746063232422
+    },
+    {
+      "timestamp": "22:13:08.956493",
+      "duration": 11.502265930175781
+    },
+    {
+      "timestamp": "22:13:09.002184",
+      "duration": 13.985395431518555
+    },
+    {
+      "timestamp": "22:13:09.045463",
+      "duration": 13.79251480102539
+    },
+    {
+      "timestamp": "22:13:09.092314",
+      "duration": 11.001110076904297
+    },
+    {
+      "timestamp": "22:13:09.135992",
+      "duration": 12.510299682617188
+    },
+    {
+      "timestamp": "22:13:09.175913",
+      "duration": 11.01231575012207
+    },
+    {
+      "timestamp": "22:13:09.216867",
+      "duration": 12.969017028808594
+    },
+    {
+      "timestamp": "22:13:09.260376",
+      "duration": 12.334823608398438
+    },
+    {
+      "timestamp": "22:13:09.307912",
+      "duration": 15.129327774047852
+    },
+    {
+      "timestamp": "22:13:09.355572",
+      "duration": 12.515068054199219
+    },
+    {
+      "timestamp": "22:13:09.397948",
+      "duration": 13.389348983764648
+    },
+    {
+      "timestamp": "22:13:09.442185",
+      "duration": 14.35542106628418
+    },
+    {
+      "timestamp": "22:13:09.487669",
+      "duration": 13.924360275268555
+    },
+    {
+      "timestamp": "22:13:09.525787",
+      "duration": 12.150287628173828
+    },
+    {
+      "timestamp": "22:13:09.576925",
+      "duration": 10.997295379638672
+    },
+    {
+      "timestamp": "22:13:09.618318",
+      "duration": 11.499166488647461
+    },
+    {
+      "timestamp": "22:13:09.657970",
+      "duration": 11.632919311523438
+    },
+    {
+      "timestamp": "22:13:09.701597",
+      "duration": 14.122724533081055
+    },
+    {
+      "timestamp": "22:13:09.741521",
+      "duration": 12.303590774536133
+    },
+    {
+      "timestamp": "22:13:09.781224",
+      "duration": 12.940406799316406
+    },
+    {
+      "timestamp": "22:13:09.832108",
+      "duration": 19.663095474243164
+    },
+    {
+      "timestamp": "22:13:09.874917",
+      "duration": 12.998580932617188
+    },
+    {
+      "timestamp": "22:13:09.921149",
+      "duration": 13.874053955078125
+    },
+    {
+      "timestamp": "22:13:09.965668",
+      "duration": 16.025543212890625
+    },
+    {
+      "timestamp": "22:13:10.012558",
+      "duration": 13.438940048217773
+    },
+    {
+      "timestamp": "22:13:10.064627",
+      "duration": 18.485546112060547
+    },
+    {
+      "timestamp": "22:13:10.109655",
+      "duration": 13.01431655883789
+    },
+    {
+      "timestamp": "22:13:10.150021",
+      "duration": 12.107133865356445
+    },
+    {
+      "timestamp": "22:13:10.190229",
+      "duration": 13.955354690551758
+    },
+    {
+      "timestamp": "22:13:10.234271",
+      "duration": 14.208316802978516
+    },
+    {
+      "timestamp": "22:13:10.277721",
+      "duration": 14.027118682861328
+    },
+    {
+      "timestamp": "22:13:10.319826",
+      "duration": 13.901472091674805
+    },
+    {
+      "timestamp": "22:13:10.375966",
+      "duration": 13.997316360473633
+    },
+    {
+      "timestamp": "22:13:10.419913",
+      "duration": 13.774394989013672
+    },
+    {
+      "timestamp": "22:13:10.460405",
+      "duration": 12.517452239990234
+    },
+    {
+      "timestamp": "22:13:10.505012",
+      "duration": 13.530254364013672
+    },
+    {
+      "timestamp": "22:13:10.548013",
+      "duration": 14.013290405273438
+    },
+    {
+      "timestamp": "22:13:11.293184",
+      "duration": 11.001825332641602
+    },
+    {
+      "timestamp": "22:13:11.338202",
+      "duration": 13.965129852294922
+    },
+    {
+      "timestamp": "22:13:11.382682",
+      "duration": 15.259742736816406
+    },
+    {
+      "timestamp": "22:13:11.423688",
+      "duration": 14.007329940795898
+    },
+    {
+      "timestamp": "22:13:11.463403",
+      "duration": 13.786792755126953
+    },
+    {
+      "timestamp": "22:13:11.505628",
+      "duration": 14.176368713378906
+    },
+    {
+      "timestamp": "22:13:11.547661",
+      "duration": 13.61846923828125
+    },
+    {
+      "timestamp": "22:13:11.586779",
+      "duration": 12.991189956665039
+    },
+    {
+      "timestamp": "22:13:11.631470",
+      "duration": 14.630556106567383
+    },
+    {
+      "timestamp": "22:13:11.673567",
+      "duration": 11.993169784545898
+    },
+    {
+      "timestamp": "22:13:11.716335",
+      "duration": 14.075517654418945
+    },
+    {
+      "timestamp": "22:13:11.760229",
+      "duration": 15.51198959350586
+    },
+    {
+      "timestamp": "22:13:11.805627",
+      "duration": 14.173507690429688
+    },
+    {
+      "timestamp": "22:13:11.853678",
+      "duration": 12.897729873657227
+    },
+    {
+      "timestamp": "22:13:11.902538",
+      "duration": 20.4312801361084
+    },
+    {
+      "timestamp": "22:13:11.949406",
+      "duration": 15.082836151123047
+    },
+    {
+      "timestamp": "22:13:11.991082",
+      "duration": 12.903690338134766
+    },
+    {
+      "timestamp": "22:13:12.038887",
+      "duration": 16.913652420043945
+    },
+    {
+      "timestamp": "22:13:12.085646",
+      "duration": 14.158248901367188
+    },
+    {
+      "timestamp": "22:13:12.129875",
+      "duration": 14.02592658996582
+    },
+    {
+      "timestamp": "22:13:12.188176",
+      "duration": 25.396347045898438
+    },
+    {
+      "timestamp": "22:13:12.232903",
+      "duration": 14.290094375610352
+    },
+    {
+      "timestamp": "22:13:12.279451",
+      "duration": 15.999794006347656
+    },
+    {
+      "timestamp": "22:13:12.327238",
+      "duration": 13.289213180541992
+    },
+    {
+      "timestamp": "22:13:12.381141",
+      "duration": 15.218257904052734
+    },
+    {
+      "timestamp": "22:13:12.424719",
+      "duration": 12.991905212402344
+    },
+    {
+      "timestamp": "22:13:12.471952",
+      "duration": 13.999700546264648
+    },
+    {
+      "timestamp": "22:13:12.514126",
+      "duration": 16.00360870361328
+    },
+    {
+      "timestamp": "22:13:12.557279",
+      "duration": 13.175487518310547
+    },
+    {
+      "timestamp": "22:13:12.601283",
+      "duration": 13.967752456665039
+    },
+    {
+      "timestamp": "22:13:12.652903",
+      "duration": 18.041610717773438
+    },
+    {
+      "timestamp": "22:13:12.714279",
+      "duration": 24.27530288696289
+    },
+    {
+      "timestamp": "22:13:12.782372",
+      "duration": 23.604631423950195
+    },
+    {
+      "timestamp": "22:13:12.840240",
+      "duration": 17.35544204711914
+    },
+    {
+      "timestamp": "22:13:12.886124",
+      "duration": 16.152143478393555
+    },
+    {
+      "timestamp": "22:13:12.935530",
+      "duration": 14.000892639160156
+    },
+    {
+      "timestamp": "22:13:12.981042",
+      "duration": 14.940261840820312
+    },
+    {
+      "timestamp": "22:13:13.024455",
+      "duration": 12.994766235351562
+    },
+    {
+      "timestamp": "22:13:13.080599",
+      "duration": 23.06222915649414
+    }
+  ],
+  "Frame render": [
+    {
+      "timestamp": "22:12:58.796119",
+      "duration": 16.042232513427734
+    },
+    {
+      "timestamp": "22:12:58.808072",
+      "duration": 3.9937496185302734
+    },
+    {
+      "timestamp": "22:12:58.825620",
+      "duration": 4.403352737426758
+    },
+    {
+      "timestamp": "22:12:58.841294",
+      "duration": 4.06336784362793
+    },
+    {
+      "timestamp": "22:12:58.857301",
+      "duration": 3.996133804321289
+    },
+    {
+      "timestamp": "22:12:58.877299",
+      "duration": 6.998300552368164
+    },
+    {
+      "timestamp": "22:12:58.894299",
+      "duration": 5.998134613037109
+    },
+    {
+      "timestamp": "22:12:58.910827",
+      "duration": 6.004571914672852
+    },
+    {
+      "timestamp": "22:12:58.927531",
+      "duration": 6.015539169311523
+    },
+    {
+      "timestamp": "22:12:58.944593",
+      "duration": 5.532503128051758
+    },
+    {
+      "timestamp": "22:12:58.960584",
+      "duration": 6.008625030517578
+    },
+    {
+      "timestamp": "22:12:58.977100",
+      "duration": 6.523609161376953
+    },
+    {
+      "timestamp": "22:12:58.990438",
+      "duration": 3.9849281311035156
+    },
+    {
+      "timestamp": "22:12:59.012364",
+      "duration": 7.007122039794922
+    },
+    {
+      "timestamp": "22:12:59.035054",
+      "duration": 7.82465934753418
+    },
+    {
+      "timestamp": "22:12:59.053703",
+      "duration": 8.018732070922852
+    },
+    {
+      "timestamp": "22:12:59.068717",
+      "duration": 5.985260009765625
+    },
+    {
+      "timestamp": "22:12:59.083717",
+      "duration": 4.99725341796875
+    },
+    {
+      "timestamp": "22:12:59.098738",
+      "duration": 5.021810531616211
+    },
+    {
+      "timestamp": "22:12:59.117900",
+      "duration": 5.552768707275391
+    },
+    {
+      "timestamp": "22:12:59.132517",
+      "duration": 5.008697509765625
+    },
+    {
+      "timestamp": "22:12:59.151055",
+      "duration": 5.001068115234375
+    },
+    {
+      "timestamp": "22:12:59.168751",
+      "duration": 5.997896194458008
+    },
+    {
+      "timestamp": "22:12:59.186712",
+      "duration": 5.012989044189453
+    },
+    {
+      "timestamp": "22:12:59.201714",
+      "duration": 5.0067901611328125
+    },
+    {
+      "timestamp": "22:12:59.220279",
+      "duration": 6.61921501159668
+    },
+    {
+      "timestamp": "22:12:59.236775",
+      "duration": 5.356073379516602
+    },
+    {
+      "timestamp": "22:12:59.253835",
+      "duration": 5.528688430786133
+    },
+    {
+      "timestamp": "22:12:59.271546",
+      "duration": 4.239559173583984
+    },
+    {
+      "timestamp": "22:12:59.288011",
+      "duration": 4.003763198852539
+    },
+    {
+      "timestamp": "22:12:59.304248",
+      "duration": 3.988504409790039
+    },
+    {
+      "timestamp": "22:12:59.320826",
+      "duration": 5.528688430786133
+    },
+    {
+      "timestamp": "22:12:59.340670",
+      "duration": 3.503561019897461
+    },
+    {
+      "timestamp": "22:12:59.355972",
+      "duration": 4.998922348022461
+    },
+    {
+      "timestamp": "22:12:59.372403",
+      "duration": 6.024837493896484
+    },
+    {
+      "timestamp": "22:12:59.388162",
+      "duration": 3.9899349212646484
+    },
+    {
+      "timestamp": "22:12:59.404153",
+      "duration": 6.001949310302734
+    },
+    {
+      "timestamp": "22:12:59.422559",
+      "duration": 7.007122039794922
+    },
+    {
+      "timestamp": "22:12:59.437619",
+      "duration": 5.022764205932617
+    },
+    {
+      "timestamp": "22:12:59.452322",
+      "duration": 4.195451736450195
+    },
+    {
+      "timestamp": "22:12:59.469342",
+      "duration": 5.004167556762695
+    },
+    {
+      "timestamp": "22:12:59.487326",
+      "duration": 5.003213882446289
+    },
+    {
+      "timestamp": "22:12:59.504285",
+      "duration": 4.99272346496582
+    },
+    {
+      "timestamp": "22:12:59.522288",
+      "duration": 4.000663757324219
+    },
+    {
+      "timestamp": "22:12:59.538532",
+      "duration": 3.992319107055664
+    },
+    {
+      "timestamp": "22:12:59.556055",
+      "duration": 3.5552978515625
+    },
+    {
+      "timestamp": "22:12:59.570766",
+      "duration": 5.03230094909668
+    },
+    {
+      "timestamp": "22:12:59.586742",
+      "duration": 5.000591278076172
+    },
+    {
+      "timestamp": "22:12:59.602921",
+      "duration": 4.977226257324219
+    },
+    {
+      "timestamp": "22:12:59.618927",
+      "duration": 6.006717681884766
+    },
+    {
+      "timestamp": "22:12:59.636734",
+      "duration": 7.107734680175781
+    },
+    {
+      "timestamp": "22:12:59.652141",
+      "duration": 5.00035285949707
+    },
+    {
+      "timestamp": "22:12:59.667523",
+      "duration": 5.019664764404297
+    },
+    {
+      "timestamp": "22:12:59.683525",
+      "duration": 5.021572113037109
+    },
+    {
+      "timestamp": "22:12:59.702542",
+      "duration": 6.012678146362305
+    },
+    {
+      "timestamp": "22:12:59.717184",
+      "duration": 5.135774612426758
+    },
+    {
+      "timestamp": "22:12:59.734196",
+      "duration": 5.019903182983398
+    },
+    {
+      "timestamp": "22:12:59.747713",
+      "duration": 4.009485244750977
+    },
+    {
+      "timestamp": "22:12:59.764705",
+      "duration": 4.000425338745117
+    },
+    {
+      "timestamp": "22:12:59.783606",
+      "duration": 5.362033843994141
+    },
+    {
+      "timestamp": "22:12:59.801854",
+      "duration": 7.001399993896484
+    },
+    {
+      "timestamp": "22:12:59.819924",
+      "duration": 6.002187728881836
+    },
+    {
+      "timestamp": "22:12:59.836119",
+      "duration": 6.1893463134765625
+    },
+    {
+      "timestamp": "22:12:59.851418",
+      "duration": 5.005598068237305
+    },
+    {
+      "timestamp": "22:12:59.868410",
+      "duration": 7.002115249633789
+    },
+    {
+      "timestamp": "22:12:59.893340",
+      "duration": 2.9990673065185547
+    },
+    {
+      "timestamp": "22:12:59.910338",
+      "duration": 4.000425338745117
+    },
+    {
+      "timestamp": "22:12:59.929034",
+      "duration": 4.113674163818359
+    },
+    {
+      "timestamp": "22:12:59.945547",
+      "duration": 4.007101058959961
+    },
+    {
+      "timestamp": "22:12:59.961082",
+      "duration": 2.9985904693603516
+    },
+    {
+      "timestamp": "22:12:59.977065",
+      "duration": 3.0002593994140625
+    },
+    {
+      "timestamp": "22:12:59.995185",
+      "duration": 4.00543212890625
+    },
+    {
+      "timestamp": "22:13:00.019256",
+      "duration": 7.091522216796875
+    },
+    {
+      "timestamp": "22:13:00.037731",
+      "duration": 6.473064422607422
+    },
+    {
+      "timestamp": "22:13:00.053555",
+      "duration": 4.990816116333008
+    },
+    {
+      "timestamp": "22:13:00.069559",
+      "duration": 5.001306533813477
+    },
+    {
+      "timestamp": "22:13:00.086705",
+      "duration": 6.143808364868164
+    },
+    {
+      "timestamp": "22:13:00.104170",
+      "duration": 5.492210388183594
+    },
+    {
+      "timestamp": "22:13:00.122323",
+      "duration": 4.412651062011719
+    },
+    {
+      "timestamp": "22:13:00.142296",
+      "duration": 3.537893295288086
+    },
+    {
+      "timestamp": "22:13:00.160981",
+      "duration": 4.004478454589844
+    },
+    {
+      "timestamp": "22:13:00.178186",
+      "duration": 3.2083988189697266
+    },
+    {
+      "timestamp": "22:13:00.200887",
+      "duration": 5.922794342041016
+    },
+    {
+      "timestamp": "22:13:00.220652",
+      "duration": 3.294706344604492
+    },
+    {
+      "timestamp": "22:13:00.240168",
+      "duration": 3.5228729248046875
+    },
+    {
+      "timestamp": "22:13:00.258586",
+      "duration": 2.9990673065185547
+    },
+    {
+      "timestamp": "22:13:00.276905",
+      "duration": 2.999544143676758
+    },
+    {
+      "timestamp": "22:13:00.294924",
+      "duration": 3.001689910888672
+    },
+    {
+      "timestamp": "22:13:00.314908",
+      "duration": 4.986286163330078
+    },
+    {
+      "timestamp": "22:13:00.342746",
+      "duration": 10.123491287231445
+    },
+    {
+      "timestamp": "22:13:00.361762",
+      "duration": 4.0130615234375
+    },
+    {
+      "timestamp": "22:13:00.394747",
+      "duration": 3.9997100830078125
+    },
+    {
+      "timestamp": "22:13:00.411744",
+      "duration": 3.9963722229003906
+    },
+    {
+      "timestamp": "22:13:00.431056",
+      "duration": 5.309343338012695
+    },
+    {
+      "timestamp": "22:13:00.449955",
+      "duration": 5.005121231079102
+    },
+    {
+      "timestamp": "22:13:00.468967",
+      "duration": 5.017518997192383
+    },
+    {
+      "timestamp": "22:13:00.486214",
+      "duration": 4.259347915649414
+    },
+    {
+      "timestamp": "22:13:00.504200",
+      "duration": 4.002809524536133
+    },
+    {
+      "timestamp": "22:13:00.522655",
+      "duration": 3.977537155151367
+    },
+    {
+      "timestamp": "22:13:00.541442",
+      "duration": 3.509044647216797
+    },
+    {
+      "timestamp": "22:13:00.558922",
+      "duration": 3.0012130737304688
+    },
+    {
+      "timestamp": "22:13:00.577917",
+      "duration": 4.00090217590332
+    },
+    {
+      "timestamp": "22:13:00.598717",
+      "duration": 4.992246627807617
+    },
+    {
+      "timestamp": "22:13:00.620707",
+      "duration": 3.990650177001953
+    },
+    {
+      "timestamp": "22:13:00.641137",
+      "duration": 3.249645233154297
+    },
+    {
+      "timestamp": "22:13:00.661493",
+      "duration": 4.000663757324219
+    },
+    {
+      "timestamp": "22:13:00.681495",
+      "duration": 5.001068115234375
+    },
+    {
+      "timestamp": "22:13:00.701484",
+      "duration": 4.0073394775390625
+    },
+    {
+      "timestamp": "22:13:00.721387",
+      "duration": 3.844738006591797
+    },
+    {
+      "timestamp": "22:13:00.740808",
+      "duration": 3.5114288330078125
+    },
+    {
+      "timestamp": "22:13:00.760067",
+      "duration": 3.0052661895751953
+    },
+    {
+      "timestamp": "22:13:00.781071",
+      "duration": 4.00543212890625
+    },
+    {
+      "timestamp": "22:13:00.804400",
+      "duration": 4.015922546386719
+    },
+    {
+      "timestamp": "22:13:00.824383",
+      "duration": 3.000974655151367
+    },
+    {
+      "timestamp": "22:13:00.843725",
+      "duration": 3.0035972595214844
+    },
+    {
+      "timestamp": "22:13:00.862911",
+      "duration": 3.0007362365722656
+    },
+    {
+      "timestamp": "22:13:00.894115",
+      "duration": 2.998828887939453
+    },
+    {
+      "timestamp": "22:13:00.913114",
+      "duration": 4.004001617431641
+    },
+    {
+      "timestamp": "22:13:00.936535",
+      "duration": 4.992246627807617
+    },
+    {
+      "timestamp": "22:13:00.957425",
+      "duration": 4.0035247802734375
+    },
+    {
+      "timestamp": "22:13:00.980727",
+      "duration": 2.9823780059814453
+    },
+    {
+      "timestamp": "22:13:01.003735",
+      "duration": 4.009485244750977
+    },
+    {
+      "timestamp": "22:13:01.024735",
+      "duration": 3.0002593994140625
+    },
+    {
+      "timestamp": "22:13:01.048671",
+      "duration": 5.005121231079102
+    },
+    {
+      "timestamp": "22:13:01.071663",
+      "duration": 4.992246627807617
+    },
+    {
+      "timestamp": "22:13:01.092406",
+      "duration": 3.0002593994140625
+    },
+    {
+      "timestamp": "22:13:01.111935",
+      "duration": 2.9904842376708984
+    },
+    {
+      "timestamp": "22:13:01.135784",
+      "duration": 6.843090057373047
+    },
+    {
+      "timestamp": "22:13:01.158994",
+      "duration": 4.001140594482422
+    },
+    {
+      "timestamp": "22:13:01.183022",
+      "duration": 5.003929138183594
+    },
+    {
+      "timestamp": "22:13:01.205231",
+      "duration": 4.005670547485352
+    },
+    {
+      "timestamp": "22:13:01.226738",
+      "duration": 4.001617431640625
+    },
+    {
+      "timestamp": "22:13:01.250256",
+      "duration": 5.001544952392578
+    },
+    {
+      "timestamp": "22:13:01.275252",
+      "duration": 4.001140594482422
+    },
+    {
+      "timestamp": "22:13:01.296637",
+      "duration": 4.002571105957031
+    },
+    {
+      "timestamp": "22:13:01.321641",
+      "duration": 5.184173583984375
+    },
+    {
+      "timestamp": "22:13:01.343201",
+      "duration": 3.5533905029296875
+    },
+    {
+      "timestamp": "22:13:01.366648",
+      "duration": 6.007671356201172
+    },
+    {
+      "timestamp": "22:13:01.390638",
+      "duration": 3.0007362365722656
+    },
+    {
+      "timestamp": "22:13:01.418057",
+      "duration": 7.6694488525390625
+    },
+    {
+      "timestamp": "22:13:01.441913",
+      "duration": 3.509521484375
+    },
+    {
+      "timestamp": "22:13:01.466938",
+      "duration": 6.016731262207031
+    },
+    {
+      "timestamp": "22:13:01.491323",
+      "duration": 4.0035247802734375
+    },
+    {
+      "timestamp": "22:13:01.517414",
+      "duration": 5.989789962768555
+    },
+    {
+      "timestamp": "22:13:01.543251",
+      "duration": 3.5250186920166016
+    },
+    {
+      "timestamp": "22:13:01.566261",
+      "duration": 6.012916564941406
+    },
+    {
+      "timestamp": "22:13:01.590460",
+      "duration": 4.001855850219727
+    },
+    {
+      "timestamp": "22:13:01.616470",
+      "duration": 6.011486053466797
+    },
+    {
+      "timestamp": "22:13:01.643478",
+      "duration": 3.7772655487060547
+    },
+    {
+      "timestamp": "22:13:01.683713",
+      "duration": 6.005764007568359
+    },
+    {
+      "timestamp": "22:13:01.707733",
+      "duration": 4.015922546386719
+    },
+    {
+      "timestamp": "22:13:01.733852",
+      "duration": 5.405902862548828
+    },
+    {
+      "timestamp": "22:13:01.759839",
+      "duration": 4.005908966064453
+    },
+    {
+      "timestamp": "22:13:01.785237",
+      "duration": 6.0367584228515625
+    },
+    {
+      "timestamp": "22:13:01.810224",
+      "duration": 3.9985179901123047
+    },
+    {
+      "timestamp": "22:13:01.838666",
+      "duration": 2.995729446411133
+    },
+    {
+      "timestamp": "22:13:01.870025",
+      "duration": 7.453203201293945
+    },
+    {
+      "timestamp": "22:13:01.919849",
+      "duration": 8.007049560546875
+    },
+    {
+      "timestamp": "22:13:01.953471",
+      "duration": 4.996061325073242
+    },
+    {
+      "timestamp": "22:13:01.981645",
+      "duration": 5.003452301025391
+    },
+    {
+      "timestamp": "22:13:02.012195",
+      "duration": 3.999948501586914
+    },
+    {
+      "timestamp": "22:13:02.043233",
+      "duration": 3.531217575073242
+    },
+    {
+      "timestamp": "22:13:02.074534",
+      "duration": 5.682468414306641
+    },
+    {
+      "timestamp": "22:13:02.105440",
+      "duration": 4.0264129638671875
+    },
+    {
+      "timestamp": "22:13:02.134948",
+      "duration": 6.000995635986328
+    },
+    {
+      "timestamp": "22:13:02.161938",
+      "duration": 3.782033920288086
+    },
+    {
+      "timestamp": "22:13:02.193805",
+      "duration": 2.9997825622558594
+    },
+    {
+      "timestamp": "22:13:02.219076",
+      "duration": 2.9990673065185547
+    },
+    {
+      "timestamp": "22:13:02.243257",
+      "duration": 3.000497817993164
+    },
+    {
+      "timestamp": "22:13:02.268873",
+      "duration": 5.925655364990234
+    },
+    {
+      "timestamp": "22:13:02.294329",
+      "duration": 2.999544143676758
+    },
+    {
+      "timestamp": "22:13:02.319596",
+      "duration": 5.015134811401367
+    },
+    {
+      "timestamp": "22:13:02.342610",
+      "duration": 3.0007362365722656
+    },
+    {
+      "timestamp": "22:13:02.368130",
+      "duration": 6.006002426147461
+    },
+    {
+      "timestamp": "22:13:02.399477",
+      "duration": 5.114316940307617
+    },
+    {
+      "timestamp": "22:13:02.424778",
+      "duration": 4.285335540771484
+    },
+    {
+      "timestamp": "22:13:02.452211",
+      "duration": 5.004167556762695
+    },
+    {
+      "timestamp": "22:13:02.476142",
+      "duration": 3.039121627807617
+    },
+    {
+      "timestamp": "22:13:02.517618",
+      "duration": 7.0056915283203125
+    },
+    {
+      "timestamp": "22:13:02.557153",
+      "duration": 5.00178337097168
+    },
+    {
+      "timestamp": "22:13:02.592538",
+      "duration": 2.999544143676758
+    },
+    {
+      "timestamp": "22:13:02.630413",
+      "duration": 5.011796951293945
+    },
+    {
+      "timestamp": "22:13:02.660600",
+      "duration": 4.477262496948242
+    },
+    {
+      "timestamp": "22:13:02.699988",
+      "duration": 5.501270294189453
+    },
+    {
+      "timestamp": "22:13:02.726741",
+      "duration": 3.1807422637939453
+    },
+    {
+      "timestamp": "22:13:02.755109",
+      "duration": 4.61888313293457
+    },
+    {
+      "timestamp": "22:13:02.781351",
+      "duration": 5.019187927246094
+    },
+    {
+      "timestamp": "22:13:02.807336",
+      "duration": 3.000497817993164
+    },
+    {
+      "timestamp": "22:13:02.836538",
+      "duration": 6.67572021484375
+    },
+    {
+      "timestamp": "22:13:02.861547",
+      "duration": 3.0002593994140625
+    },
+    {
+      "timestamp": "22:13:02.891032",
+      "duration": 3.000974655151367
+    },
+    {
+      "timestamp": "22:13:02.920594",
+      "duration": 2.995729446411133
+    },
+    {
+      "timestamp": "22:13:02.945026",
+      "duration": 3.418445587158203
+    },
+    {
+      "timestamp": "22:13:02.972154",
+      "duration": 4.003047943115234
+    },
+    {
+      "timestamp": "22:13:03.004152",
+      "duration": 5.994558334350586
+    },
+    {
+      "timestamp": "22:13:03.031815",
+      "duration": 4.663228988647461
+    },
+    {
+      "timestamp": "22:13:03.060909",
+      "duration": 3.0035972595214844
+    },
+    {
+      "timestamp": "22:13:03.088325",
+      "duration": 4.001617431640625
+    },
+    {
+      "timestamp": "22:13:03.120264",
+      "duration": 2.992868423461914
+    },
+    {
+      "timestamp": "22:13:03.149584",
+      "duration": 5.831003189086914
+    },
+    {
+      "timestamp": "22:13:03.191811",
+      "duration": 3.000974655151367
+    },
+    {
+      "timestamp": "22:13:03.217934",
+      "duration": 5.131244659423828
+    },
+    {
+      "timestamp": "22:13:03.243786",
+      "duration": 4.001379013061523
+    },
+    {
+      "timestamp": "22:13:03.275001",
+      "duration": 2.9959678649902344
+    },
+    {
+      "timestamp": "22:13:03.304419",
+      "duration": 4.005670547485352
+    },
+    {
+      "timestamp": "22:13:03.332064",
+      "duration": 4.911184310913086
+    },
+    {
+      "timestamp": "22:13:03.359806",
+      "duration": 3.001689910888672
+    },
+    {
+      "timestamp": "22:13:03.389664",
+      "duration": 3.0219554901123047
+    },
+    {
+      "timestamp": "22:13:03.420548",
+      "duration": 3.9975643157958984
+    },
+    {
+      "timestamp": "22:13:03.449335",
+      "duration": 5.522727966308594
+    },
+    {
+      "timestamp": "22:13:03.478868",
+      "duration": 3.997802734375
+    },
+    {
+      "timestamp": "22:13:03.509216",
+      "duration": 3.000020980834961
+    },
+    {
+      "timestamp": "22:13:03.539285",
+      "duration": 2.997875213623047
+    },
+    {
+      "timestamp": "22:13:03.570777",
+      "duration": 2.9754638671875
+    },
+    {
+      "timestamp": "22:13:03.600455",
+      "duration": 4.004955291748047
+    },
+    {
+      "timestamp": "22:13:03.626802",
+      "duration": 3.004312515258789
+    },
+    {
+      "timestamp": "22:13:03.660456",
+      "duration": 4.645824432373047
+    },
+    {
+      "timestamp": "22:13:03.689509",
+      "duration": 3.0012130737304688
+    },
+    {
+      "timestamp": "22:13:03.720358",
+      "duration": 3.9801597595214844
+    },
+    {
+      "timestamp": "22:13:03.749581",
+      "duration": 5.519866943359375
+    },
+    {
+      "timestamp": "22:13:03.777582",
+      "duration": 3.0028820037841797
+    },
+    {
+      "timestamp": "22:13:03.806285",
+      "duration": 3.9360523223876953
+    },
+    {
+      "timestamp": "22:13:03.837436",
+      "duration": 3.999471664428711
+    },
+    {
+      "timestamp": "22:13:03.868359",
+      "duration": 5.002498626708984
+    },
+    {
+      "timestamp": "22:13:03.903223",
+      "duration": 6.885051727294922
+    },
+    {
+      "timestamp": "22:13:03.938414",
+      "duration": 4.001140594482422
+    },
+    {
+      "timestamp": "22:13:03.967359",
+      "duration": 5.000591278076172
+    },
+    {
+      "timestamp": "22:13:04.000031",
+      "duration": 5.0029754638671875
+    },
+    {
+      "timestamp": "22:13:04.029038",
+      "duration": 4.007101058959961
+    },
+    {
+      "timestamp": "22:13:04.061625",
+      "duration": 4.036188125610352
+    },
+    {
+      "timestamp": "22:13:04.092724",
+      "duration": 4.094362258911133
+    },
+    {
+      "timestamp": "22:13:04.125095",
+      "duration": 4.001617431640625
+    },
+    {
+      "timestamp": "22:13:04.158031",
+      "duration": 3.749370574951172
+    },
+    {
+      "timestamp": "22:13:04.201347",
+      "duration": 5.661964416503906
+    },
+    {
+      "timestamp": "22:13:04.232942",
+      "duration": 6.010293960571289
+    },
+    {
+      "timestamp": "22:13:04.264384",
+      "duration": 5.454301834106445
+    },
+    {
+      "timestamp": "22:13:04.294796",
+      "duration": 4.379987716674805
+    },
+    {
+      "timestamp": "22:13:04.327879",
+      "duration": 2.997875213623047
+    },
+    {
+      "timestamp": "22:13:04.358921",
+      "duration": 4.518270492553711
+    },
+    {
+      "timestamp": "22:13:04.391930",
+      "duration": 6.009340286254883
+    },
+    {
+      "timestamp": "22:13:04.429922",
+      "duration": 3.999471664428711
+    },
+    {
+      "timestamp": "22:13:04.467106",
+      "duration": 6.901979446411133
+    },
+    {
+      "timestamp": "22:13:04.500273",
+      "duration": 6.701946258544922
+    },
+    {
+      "timestamp": "22:13:04.535146",
+      "duration": 4.00853157043457
+    },
+    {
+      "timestamp": "22:13:04.567756",
+      "duration": 6.009340286254883
+    },
+    {
+      "timestamp": "22:13:04.602620",
+      "duration": 4.091024398803711
+    },
+    {
+      "timestamp": "22:13:04.636829",
+      "duration": 4.03141975402832
+    },
+    {
+      "timestamp": "22:13:04.670691",
+      "duration": 3.6301612854003906
+    },
+    {
+      "timestamp": "22:13:04.709396",
+      "duration": 3.9763450622558594
+    },
+    {
+      "timestamp": "22:13:04.743027",
+      "duration": 4.002094268798828
+    },
+    {
+      "timestamp": "22:13:04.776005",
+      "duration": 3.9854049682617188
+    },
+    {
+      "timestamp": "22:13:04.810152",
+      "duration": 3.9908885955810547
+    },
+    {
+      "timestamp": "22:13:04.842659",
+      "duration": 3.0069351196289062
+    },
+    {
+      "timestamp": "22:13:04.878642",
+      "duration": 2.962350845336914
+    },
+    {
+      "timestamp": "22:13:04.923069",
+      "duration": 4.053831100463867
+    },
+    {
+      "timestamp": "22:13:04.955137",
+      "duration": 4.00090217590332
+    },
+    {
+      "timestamp": "22:13:04.990799",
+      "duration": 4.00090217590332
+    },
+    {
+      "timestamp": "22:13:05.023796",
+      "duration": 3.0007362365722656
+    },
+    {
+      "timestamp": "22:13:05.055860",
+      "duration": 2.9993057250976562
+    },
+    {
+      "timestamp": "22:13:05.089737",
+      "duration": 4.00090217590332
+    },
+    {
+      "timestamp": "22:13:05.120477",
+      "duration": 2.998828887939453
+    },
+    {
+      "timestamp": "22:13:05.155396",
+      "duration": 5.0506591796875
+    },
+    {
+      "timestamp": "22:13:05.198361",
+      "duration": 4.988908767700195
+    },
+    {
+      "timestamp": "22:13:05.234030",
+      "duration": 5.005598068237305
+    },
+    {
+      "timestamp": "22:13:05.268506",
+      "duration": 6.062507629394531
+    },
+    {
+      "timestamp": "22:13:05.302000",
+      "duration": 3.0777454376220703
+    },
+    {
+      "timestamp": "22:13:05.335587",
+      "duration": 3.1049251556396484
+    },
+    {
+      "timestamp": "22:13:05.370544",
+      "duration": 4.001855850219727
+    },
+    {
+      "timestamp": "22:13:05.405053",
+      "duration": 4.133701324462891
+    },
+    {
+      "timestamp": "22:13:05.441624",
+      "duration": 3.9980411529541016
+    },
+    {
+      "timestamp": "22:13:05.474147",
+      "duration": 2.998828887939453
+    },
+    {
+      "timestamp": "22:13:05.509920",
+      "duration": 3.971099853515625
+    },
+    {
+      "timestamp": "22:13:06.462868",
+      "duration": 4.00233268737793
+    },
+    {
+      "timestamp": "22:13:06.496180",
+      "duration": 3.905057907104492
+    },
+    {
+      "timestamp": "22:13:06.533789",
+      "duration": 6.740570068359375
+    },
+    {
+      "timestamp": "22:13:06.566789",
+      "duration": 5.999088287353516
+    },
+    {
+      "timestamp": "22:13:06.599941",
+      "duration": 5.153656005859375
+    },
+    {
+      "timestamp": "22:13:06.633666",
+      "duration": 4.7283172607421875
+    },
+    {
+      "timestamp": "22:13:06.667179",
+      "duration": 3.9985179901123047
+    },
+    {
+      "timestamp": "22:13:06.704213",
+      "duration": 2.997875213623047
+    },
+    {
+      "timestamp": "22:13:06.742424",
+      "duration": 4.008293151855469
+    },
+    {
+      "timestamp": "22:13:06.781315",
+      "duration": 5.540370941162109
+    },
+    {
+      "timestamp": "22:13:06.816441",
+      "duration": 5.013704299926758
+    },
+    {
+      "timestamp": "22:13:06.853007",
+      "duration": 5.391120910644531
+    },
+    {
+      "timestamp": "22:13:06.886012",
+      "duration": 4.004955291748047
+    },
+    {
+      "timestamp": "22:13:06.922009",
+      "duration": 3.001689910888672
+    },
+    {
+      "timestamp": "22:13:06.959082",
+      "duration": 3.991365432739258
+    },
+    {
+      "timestamp": "22:13:06.996939",
+      "duration": 5.016803741455078
+    },
+    {
+      "timestamp": "22:13:07.036158",
+      "duration": 5.439281463623047
+    },
+    {
+      "timestamp": "22:13:07.078551",
+      "duration": 5.043506622314453
+    },
+    {
+      "timestamp": "22:13:07.118100",
+      "duration": 3.9892196655273438
+    },
+    {
+      "timestamp": "22:13:07.157484",
+      "duration": 4.001140594482422
+    },
+    {
+      "timestamp": "22:13:07.199675",
+      "duration": 5.00035285949707
+    },
+    {
+      "timestamp": "22:13:07.235545",
+      "duration": 4.038095474243164
+    },
+    {
+      "timestamp": "22:13:07.270133",
+      "duration": 3.9968490600585938
+    },
+    {
+      "timestamp": "22:13:07.308936",
+      "duration": 3.392457962036133
+    },
+    {
+      "timestamp": "22:13:07.352790",
+      "duration": 3.525257110595703
+    },
+    {
+      "timestamp": "22:13:07.387881",
+      "duration": 2.992868423461914
+    },
+    {
+      "timestamp": "22:13:07.425185",
+      "duration": 4.002571105957031
+    },
+    {
+      "timestamp": "22:13:07.470305",
+      "duration": 2.9997825622558594
+    },
+    {
+      "timestamp": "22:13:07.507472",
+      "duration": 3.5271644592285156
+    },
+    {
+      "timestamp": "22:13:07.544505",
+      "duration": 4.000186920166016
+    },
+    {
+      "timestamp": "22:13:07.582641",
+      "duration": 6.001949310302734
+    },
+    {
+      "timestamp": "22:13:07.622127",
+      "duration": 4.002094268798828
+    },
+    {
+      "timestamp": "22:13:07.660626",
+      "duration": 3.9854049682617188
+    },
+    {
+      "timestamp": "22:13:07.701497",
+      "duration": 4.309654235839844
+    },
+    {
+      "timestamp": "22:13:07.740301",
+      "duration": 4.095315933227539
+    },
+    {
+      "timestamp": "22:13:07.784956",
+      "duration": 6.452322006225586
+    },
+    {
+      "timestamp": "22:13:07.825808",
+      "duration": 3.5562515258789062
+    },
+    {
+      "timestamp": "22:13:07.868384",
+      "duration": 3.992319107055664
+    },
+    {
+      "timestamp": "22:13:07.907585",
+      "duration": 4.000186920166016
+    },
+    {
+      "timestamp": "22:13:07.967595",
+      "duration": 7.00068473815918
+    },
+    {
+      "timestamp": "22:13:08.023570",
+      "duration": 4.96983528137207
+    },
+    {
+      "timestamp": "22:13:08.085573",
+      "duration": 3.999948501586914
+    },
+    {
+      "timestamp": "22:13:08.122393",
+      "duration": 3.000497817993164
+    },
+    {
+      "timestamp": "22:13:08.161384",
+      "duration": 3.7682056427001953
+    },
+    {
+      "timestamp": "22:13:08.199416",
+      "duration": 5.019664764404297
+    },
+    {
+      "timestamp": "22:13:08.238551",
+      "duration": 4.004955291748047
+    },
+    {
+      "timestamp": "22:13:08.277398",
+      "duration": 2.9990673065185547
+    },
+    {
+      "timestamp": "22:13:08.319082",
+      "duration": 5.24449348449707
+    },
+    {
+      "timestamp": "22:13:08.358733",
+      "duration": 3.0133724212646484
+    },
+    {
+      "timestamp": "22:13:08.398450",
+      "duration": 5.298137664794922
+    },
+    {
+      "timestamp": "22:13:08.437292",
+      "duration": 3.0052661895751953
+    },
+    {
+      "timestamp": "22:13:08.481428",
+      "duration": 3.9949417114257812
+    },
+    {
+      "timestamp": "22:13:08.517051",
+      "duration": 5.002498626708984
+    },
+    {
+      "timestamp": "22:13:08.559375",
+      "duration": 4.105567932128906
+    },
+    {
+      "timestamp": "22:13:08.599973",
+      "duration": 6.253480911254883
+    },
+    {
+      "timestamp": "22:13:08.638903",
+      "duration": 2.9990673065185547
+    },
+    {
+      "timestamp": "22:13:08.678445",
+      "duration": 4.998683929443359
+    },
+    {
+      "timestamp": "22:13:08.716621",
+      "duration": 4.019737243652344
+    },
+    {
+      "timestamp": "22:13:08.757464",
+      "duration": 2.9909610748291016
+    },
+    {
+      "timestamp": "22:13:08.795478",
+      "duration": 4.015207290649414
+    },
+    {
+      "timestamp": "22:13:08.843303",
+      "duration": 3.9784908294677734
+    },
+    {
+      "timestamp": "22:13:08.887580",
+      "duration": 3.0019283294677734
+    },
+    {
+      "timestamp": "22:13:08.932468",
+      "duration": 6.888866424560547
+    },
+    {
+      "timestamp": "22:13:08.973273",
+      "duration": 4.00543212890625
+    },
+    {
+      "timestamp": "22:13:09.017267",
+      "duration": 4.076719284057617
+    },
+    {
+      "timestamp": "22:13:09.068134",
+      "duration": 4.003763198852539
+    },
+    {
+      "timestamp": "22:13:09.109485",
+      "duration": 4.00090217590332
+    },
+    {
+      "timestamp": "22:13:09.152485",
+      "duration": 3.487110137939453
+    },
+    {
+      "timestamp": "22:13:09.190981",
+      "duration": 2.9997825622558594
+    },
+    {
+      "timestamp": "22:13:09.233935",
+      "duration": 5.157947540283203
+    },
+    {
+      "timestamp": "22:13:09.279393",
+      "duration": 5.010128021240234
+    },
+    {
+      "timestamp": "22:13:09.326039",
+      "duration": 3.8285255432128906
+    },
+    {
+      "timestamp": "22:13:09.371152",
+      "duration": 4.007816314697266
+    },
+    {
+      "timestamp": "22:13:09.412469",
+      "duration": 4.493474960327148
+    },
+    {
+      "timestamp": "22:13:09.460708",
+      "duration": 4.013776779174805
+    },
+    {
+      "timestamp": "22:13:09.501735",
+      "duration": 3.014087677001953
+    },
+    {
+      "timestamp": "22:13:09.540381",
+      "duration": 4.518747329711914
+    },
+    {
+      "timestamp": "22:13:09.594421",
+      "duration": 4.005908966064453
+    },
+    {
+      "timestamp": "22:13:09.634250",
+      "duration": 4.001855850219727
+    },
+    {
+      "timestamp": "22:13:09.675227",
+      "duration": 3.9167404174804688
+    },
+    {
+      "timestamp": "22:13:09.717328",
+      "duration": 3.6864280700683594
+    },
+    {
+      "timestamp": "22:13:09.756323",
+      "duration": 3.0035972595214844
+    },
+    {
+      "timestamp": "22:13:09.797046",
+      "duration": 4.635810852050781
+    },
+    {
+      "timestamp": "22:13:09.848213",
+      "duration": 4.988193511962891
+    },
+    {
+      "timestamp": "22:13:09.892639",
+      "duration": 4.165172576904297
+    },
+    {
+      "timestamp": "22:13:09.937590",
+      "duration": 4.049777984619141
+    },
+    {
+      "timestamp": "22:13:09.984864",
+      "duration": 5.183935165405273
+    },
+    {
+      "timestamp": "22:13:10.031050",
+      "duration": 6.362199783325195
+    },
+    {
+      "timestamp": "22:13:10.083641",
+      "duration": 4.003047943115234
+    },
+    {
+      "timestamp": "22:13:10.124653",
+      "duration": 3.0019283294677734
+    },
+    {
+      "timestamp": "22:13:10.165287",
+      "duration": 6.046056747436523
+    },
+    {
+      "timestamp": "22:13:10.207689",
+      "duration": 4.004955291748047
+    },
+    {
+      "timestamp": "22:13:10.251337",
+      "duration": 5.120277404785156
+    },
+    {
+      "timestamp": "22:13:10.292683",
+      "duration": 2.9985904693603516
+    },
+    {
+      "timestamp": "22:13:10.349240",
+      "duration": 5.923748016357422
+    },
+    {
+      "timestamp": "22:13:10.391969",
+      "duration": 4.000186920166016
+    },
+    {
+      "timestamp": "22:13:10.434879",
+      "duration": 4.005908966064453
+    },
+    {
+      "timestamp": "22:13:10.477498",
+      "duration": 3.930330276489258
+    },
+    {
+      "timestamp": "22:13:10.520539",
+      "duration": 2.9888153076171875
+    },
+    {
+      "timestamp": "22:13:10.565317",
+      "duration": 6.567239761352539
+    },
+    {
+      "timestamp": "22:13:11.311195",
+      "duration": 4.006147384643555
+    },
+    {
+      "timestamp": "22:13:11.353119",
+      "duration": 2.5148391723632812
+    },
+    {
+      "timestamp": "22:13:11.397691",
+      "duration": 5.0144195556640625
+    },
+    {
+      "timestamp": "22:13:11.437678",
+      "duration": 4.002571105957031
+    },
+    {
+      "timestamp": "22:13:11.479402",
+      "duration": 4.994630813598633
+    },
+    {
+      "timestamp": "22:13:11.521541",
+      "duration": 2.9938220977783203
+    },
+    {
+      "timestamp": "22:13:11.561378",
+      "duration": 3.906726837158203
+    },
+    {
+      "timestamp": "22:13:11.602839",
+      "duration": 4.001617431640625
+    },
+    {
+      "timestamp": "22:13:11.648555",
+      "duration": 4.009008407592773
+    },
+    {
+      "timestamp": "22:13:11.690048",
+      "duration": 3.999471664428711
+    },
+    {
+      "timestamp": "22:13:11.732533",
+      "duration": 3.0715465545654297
+    },
+    {
+      "timestamp": "22:13:11.778314",
+      "duration": 4.086971282958984
+    },
+    {
+      "timestamp": "22:13:11.824875",
+      "duration": 2.995014190673828
+    },
+    {
+      "timestamp": "22:13:11.868911",
+      "duration": 3.13568115234375
+    },
+    {
+      "timestamp": "22:13:11.919637",
+      "duration": 3.0927658081054688
+    },
+    {
+      "timestamp": "22:13:11.964084",
+      "duration": 4.003047943115234
+    },
+    {
+      "timestamp": "22:13:12.007061",
+      "duration": 3.094196319580078
+    },
+    {
+      "timestamp": "22:13:12.055488",
+      "duration": 3.519296646118164
+    },
+    {
+      "timestamp": "22:13:12.101892",
+      "duration": 2.9969215393066406
+    },
+    {
+      "timestamp": "22:13:12.148144",
+      "duration": 7.27391242980957
+    },
+    {
+      "timestamp": "22:13:12.204603",
+      "duration": 3.9811134338378906
+    },
+    {
+      "timestamp": "22:13:12.249601",
+      "duration": 4.015922546386719
+    },
+    {
+      "timestamp": "22:13:12.299937",
+      "duration": 6.068229675292969
+    },
+    {
+      "timestamp": "22:13:12.350906",
+      "duration": 5.779027938842773
+    },
+    {
+      "timestamp": "22:13:12.399150",
+      "duration": 3.9827823638916016
+    },
+    {
+      "timestamp": "22:13:12.441570",
+      "duration": 3.750324249267578
+    },
+    {
+      "timestamp": "22:13:12.486042",
+      "duration": 3.0014514923095703
+    },
+    {
+      "timestamp": "22:13:12.531170",
+      "duration": 5.053281784057617
+    },
+    {
+      "timestamp": "22:13:12.573288",
+      "duration": 2.998828887939453
+    },
+    {
+      "timestamp": "22:13:12.620876",
+      "duration": 3.500699996948242
+    },
+    {
+      "timestamp": "22:13:12.675086",
+      "duration": 4.183292388916016
+    },
+    {
+      "timestamp": "22:13:12.737653",
+      "duration": 4.505157470703125
+    },
+    {
+      "timestamp": "22:13:12.798891",
+      "duration": 5.001544952392578
+    },
+    {
+      "timestamp": "22:13:12.855795",
+      "duration": 3.533601760864258
+    },
+    {
+      "timestamp": "22:13:12.907545",
+      "duration": 4.001140594482422
+    },
+    {
+      "timestamp": "22:13:12.951533",
+      "duration": 4.000186920166016
+    },
+    {
+      "timestamp": "22:13:12.997458",
+      "duration": 3.998994827270508
+    },
+    {
+      "timestamp": "22:13:13.041835",
+      "duration": 4.193782806396484
+    },
+    {
+      "timestamp": "22:13:13.098256",
+      "duration": 5.658149719238281
+    }
+  ]
+}

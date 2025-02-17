@@ -1,0 +1,70 @@
+{
+    "platforms": [
+        {
+            "type": "Platform",
+            "x": 91,
+            "y": 287,
+            "width": 167,
+            "height": 23,
+            "color": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "Platform",
+            "x": 80,
+            "y": 196,
+            "width": 24,
+            "height": 87,
+            "color": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "Platform",
+            "x": 254,
+            "y": 181,
+            "width": 26,
+            "height": 103,
+            "color": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "Platform",
+            "x": 108,
+            "y": 165,
+            "width": 96,
+            "height": 16,
+            "color": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "LadderPlatform",
+            "x": 220,
+            "y": 200,
+            "width": 16,
+            "height": 72,
+            "color": [
+                0,
+                255,
+                0
+            ]
+        }
+    ],
+    "world_width": 500,
+    "world_height": 500,
+    "player_spawn": [
+        124,
+        260
+    ]
+}

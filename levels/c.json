@@ -1,0 +1,22 @@
+{
+    "platforms": [
+        {
+            "type": "Platform",
+            "x": 230,
+            "y": 150,
+            "width": 10,
+            "height": 10,
+            "color": [
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "world_width": 300,
+    "world_height": 200,
+    "player_spawn": [
+        234.85000000000005,
+        144.10000000000005
+    ]
+}

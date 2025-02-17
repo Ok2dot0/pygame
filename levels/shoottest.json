@@ -1,0 +1,47 @@
+{
+    "platforms": [
+        {
+            "type": "Platform",
+            "x": 0,
+            "y": 520,
+            "width": 990,
+            "height": 80,
+            "color": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "Platform",
+            "x": 790,
+            "y": 260,
+            "width": 150,
+            "height": 290,
+            "color": [
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "world_width": 1000,
+    "world_height": 1000,
+    "player_spawn": [
+        168.58334344299178,
+        471.01529713461537
+    ],
+    "gun_spawn": [
+        327.04246508768813,
+        480.57748550972633
+    ],
+    "enemy_spawns": [
+        [
+            568.146214831558,
+            471.01529713461537
+        ]
+    ],
+    "enemy_types": [
+        "ShooterEnemy"
+    ]
+}

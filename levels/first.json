@@ -1,0 +1,80 @@
+{
+    "platforms": [
+        {
+            "type": "Platform",
+            "x": 40,
+            "y": 130,
+            "width": 230,
+            "height": 30,
+            "color": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "LadderPlatform",
+            "x": 100,
+            "y": 60,
+            "width": 10,
+            "height": 50,
+            "color": [
+                0,
+                255,
+                0
+            ]
+        },
+        {
+            "type": "SlipperyPlatform",
+            "x": 120,
+            "y": 40,
+            "width": 130,
+            "height": 20,
+            "color": [
+                0,
+                0,
+                255
+            ]
+        },
+        {
+            "type": "SlipperyPlatform",
+            "x": 290,
+            "y": 40,
+            "width": 90,
+            "height": 20,
+            "color": [
+                0,
+                0,
+                255
+            ]
+        },
+        {
+            "type": "DeadlyPlatform",
+            "x": 290,
+            "y": 130,
+            "width": 90,
+            "height": 30,
+            "color": [
+                255,
+                0,
+                0
+            ]
+        }
+    ],
+    "world_width": 500,
+    "world_height": 200,
+    "player_spawn": [
+        61.49220000000003,
+        103.21905000000005
+    ],
+    "gun_spawn": [
+        254.02135000000015,
+        167.6394500000001
+    ],
+    "enemy_spawns": [
+        [
+            188.1368500000001,
+            111.27160000000006
+        ]
+    ]
+}
